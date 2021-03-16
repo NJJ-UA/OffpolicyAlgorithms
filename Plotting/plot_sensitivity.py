@@ -32,7 +32,7 @@ def plot_sensitivity(ax, alg, alphas, best_performance, stderr, exp_attrs, secon
     if PLOT_RERUN_AND_ORIG:
         alpha = 1.0 if second_time else 0.5
     lbl = f'{alg}'
-    ax.set_xscale('log', basex=2)
+    ax.set_xscale('log', base=2)
     ax.plot(alphas, best_performance, label=lbl, linestyle='-', marker='o', color=ALG_COLORS[alg],
             linewidth=2, markersize=5, alpha=alpha)
     ax.errorbar(alphas, best_performance, yerr=stderr, ecolor=ALG_COLORS[alg], mfc=ALG_COLORS[alg],

@@ -94,5 +94,5 @@ def process_data():
                     best_params = find_best_perf(alg, exp, auc_or_final, sp)
                     save_best_perf_in_json(alg, exp, best_params, auc_or_final, sp)
                     # run_learning_with_best_perf(alg, exp, auc_or_final, sp)
-                    save_perf_over_alpha(alg, exp, auc_or_final, sp, rerun=True)
+                    save_perf_over_alpha(alg, exp, auc_or_final, sp, rerun=False)
                     print(f"Finished re-running {exp}, {alg} {best_params}")
