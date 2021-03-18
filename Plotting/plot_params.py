@@ -29,7 +29,7 @@ EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '
 
 if DEBUG_MODE:
     EXPS = ['NewChain']
-    ALGS = ['ETD','TD']
+    ALGS = ['ETD','TD','ETDH']
     LMBDA_AND_ZETA = [0.0, 0.9]
     AUC_AND_FINAL = ['auc']
-    ALG_GROUPS = {'new': ['ETD','TD']}
+    ALG_GROUPS = {'new': ['ETD','TD','ETDH']}

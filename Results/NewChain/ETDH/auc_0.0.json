@@ -1,0 +1,12 @@
+{
+    "agent": "ETDH",
+    "environment": "Chain",
+    "task": "EightStateOffPolicyRandomFeat",
+    "number_of_runs": 50,
+    "number_of_steps": 20000,
+    "sub_sample": 1,
+    "meta_parameters": {
+        "alpha": 0.03125,
+        "lmbda": 0.0
+    }
+}
