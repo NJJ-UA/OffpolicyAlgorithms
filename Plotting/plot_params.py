@@ -25,10 +25,10 @@ ALGS.remove('LSTD')
 ALGS.remove('LSETD')
 LMBDA_AND_ZETA = [0.0, 0.9]
 AUC_AND_FINAL = ['auc', 'final']
-EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '1HVFourRoom': HVFirstFourRoomAttr,'NewChain': FirstChainAttr,'NewFourRoom': FirstFourRoomAttr,}
+EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '1HVFourRoom': HVFirstFourRoomAttr,'NewChain': FirstChainAttr,'NewFourRoom': FirstFourRoomAttr,'NewHVFourRoom': HVFirstFourRoomAttr}
 
 if DEBUG_MODE:
-    EXPS = ['NewFourRoom']
+    EXPS = ['NewHVFourRoom']
     ALGS = ['ETD','TD','ETDH']
     LMBDA_AND_ZETA = [0.0, 0.9]
     AUC_AND_FINAL = ['auc']
