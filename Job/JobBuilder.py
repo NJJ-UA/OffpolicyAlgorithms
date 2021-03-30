@@ -50,7 +50,7 @@ class JobBuilder:
                 'ETA': ' '.join([f'{num:.10f}' for num in self.eta]),
                 'BETA': ' '.join([f'{num:.5f}' for num in self.beta]),
                 'ZETA': ' '.join([f'{num:.5f}' for num in self.zeta]),
-                'EPSILON': ' '.join([f'{num:.5f}' for num in self.epsilon]),
+                'EPSILON': f'{self.epsilon}',
                 'TDRCBETA': ' '.join([f'{num:.5f}' for num in self.tdrc_beta]),
                 'NUMOFRUNS': f'{self.num_of_runs}',
                 'NUMSTEPS': f'{self.num_steps}',
