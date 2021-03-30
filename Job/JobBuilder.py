@@ -14,7 +14,7 @@ default_params = ImmutableDict(
         # 'task': 'LearnEightPoliciesTileCodingFeat',
         # 'environment': 'FourRoomGridWorld',
         # 'exp': 'FirstFourRoom',
-        'agent': 'SARSA',
+        'agent': 'ESARSAH',
         'task': 'MountainCarTileCodingFeat',
         'environment': 'MountainCar',
         'exp': 'MountainCar',
