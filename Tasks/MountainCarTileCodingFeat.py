@@ -57,7 +57,7 @@ class MountainCarTileCodingFeat(BaseTask, MountainCar):
         return self.tilecode.tiles(s, a)
 
 
-    #
+
     # def get_active_policies(self, s):
     #     if s in self._active_policies_cache:
     #         return self._active_policies_cache[s]

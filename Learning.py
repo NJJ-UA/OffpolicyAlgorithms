@@ -88,7 +88,7 @@ def learnControl(config: Configuration):
             while True:
                 agent.next_state, r, is_terminal, info = env.step(agent.action)
                 agent.next_action = agent.choose_behavior_action(agent.next_state)
-                agent.learn(agent.state, agent.next_state, agent.action, agent.next_state, r, is_terminal)
+                agent.learn(agent.state, agent.next_state, agent.action, agent.next_action, r, is_terminal)
                 if is_terminal:
                     steps[episode, run] = agent.time_step
                     agent.state = env.reset()
