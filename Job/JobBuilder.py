@@ -14,21 +14,22 @@ default_params = ImmutableDict(
         # 'task': 'LearnEightPoliciesTileCodingFeat',
         # 'environment': 'FourRoomGridWorld',
         # 'exp': 'FirstFourRoom',
-        'agent': 'LSETD',
-        'task': 'HighVarianceLearnEightPoliciesTileCodingFeat',
-        'environment': 'FourRoomGridWorld',
-        'exp': '1HVFourRoom',
+        'agent': 'SARSA',
+        'task': 'MountainCarTileCodingFeat',
+        'environment': 'MountainCar',
+        'exp': 'MountainCar',
 
         'sub_sample': 1,
-        'num_of_runs': 50,
-        'num_steps': 50000,
+        'num_of_runs': 5,
+        'num_steps': 20,
         'meta_parameters': {
-            'alpha': 0.01,
+            'alpha':  0.0625,
             'eta': 16.0,
             'beta': 0.9,
             'zeta': 0.1,
             'lmbda': 0.0,
-            'tdrc_beta': 1.0
+            'tdrc_beta': 1.0,
+            'epsilon': 0.01
         }
     }
 )
@@ -49,6 +50,7 @@ class JobBuilder:
                 'ETA': ' '.join([f'{num:.10f}' for num in self.eta]),
                 'BETA': ' '.join([f'{num:.5f}' for num in self.beta]),
                 'ZETA': ' '.join([f'{num:.5f}' for num in self.zeta]),
+                'EPSILON': ' '.join([f'{num:.5f}' for num in self.epsilon]),
                 'TDRCBETA': ' '.join([f'{num:.5f}' for num in self.tdrc_beta]),
                 'NUMOFRUNS': f'{self.num_of_runs}',
                 'NUMSTEPS': f'{self.num_steps}',
@@ -73,6 +75,11 @@ class JobBuilder:
     def lmbda(self):
         parameters = self._params.get('meta_parameters')
         return np.asarray(parameters.get('lmbda', [default_params['meta_parameters']['lmbda']]))
+
+    @property
+    def epsilon(self):
+        parameters = self._params.get('meta_parameters')
+        return np.asarray(parameters.get('epsilon', [default_params['meta_parameters']['epsilon']]))
 
     @property
     def eta(self):

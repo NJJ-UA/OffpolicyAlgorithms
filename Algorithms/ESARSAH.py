@@ -1,10 +1,7 @@
-from Algorithms.ETD import ETD
+from Algorithms.ESARSA import ESARSA
 
 
-class ETDH(ETD):
-    def __init__(self, task, **kwargs):
-        super().__init__(task, **kwargs)
-        self.beta = self.task.GAMMA
+class ESARSAH(ESARSA):
 
     def compute_step_size(self):
         if self.gamma == 1:

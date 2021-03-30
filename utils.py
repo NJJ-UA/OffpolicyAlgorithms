@@ -41,7 +41,7 @@ class ImmutableDict(dict):
 
 def create_name_for_save_load(param_dict, excluded_params=None):
     if excluded_params is None:
-        excluded_params = []
+        excluded_params = ['epsilon']
     final_str = ''
     for k, v in param_dict.items():
         if k in excluded_params:

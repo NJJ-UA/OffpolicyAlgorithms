@@ -19,6 +19,7 @@ class BaseTD:
         self.r_vec = np.zeros(self.task.num_policies)
         self.gamma_vec_tp = np.zeros(self.task.num_policies)
         self.gamma_vec_t = np.zeros(self.task.num_policies)
+        self.time_step = 0
 
     @staticmethod
     def related_parameters():
@@ -44,6 +45,7 @@ class BaseTD:
             self.learn_single_policy(s, s_p, r, is_terminal)
         else:
             self.learn_multiple_policies(s, s_p, r, is_terminal)
+        self.time_step += 1
 
     def get_features(self, s, s_p, is_terminal):
         x_p = np.zeros(self.task.num_features)
@@ -90,6 +92,7 @@ class BaseTD:
 
     def reset(self):
         self.z = np.zeros(self.task.num_features)
+        self.time_step = 0
 
     def __str__(self):
         return f'agent:{type(self).__name__}'
