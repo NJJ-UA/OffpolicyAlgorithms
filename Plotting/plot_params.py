@@ -11,7 +11,8 @@ DEBUG_MODE = True
 
 # noinspection SpellCheckingInspection
 COLORS = ['#000000', "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22",
-          "#17becf", "#17becf", "#17becf", "#17becf", "#17becf"]
+          "#17becf", '#000000', "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22",
+          "#17becf"]
 ALG_COLORS = {alg_name: color for alg_name, color in zip(alg_dict.keys(), COLORS)}
 ALG_COLORS['LSTD'] = ALG_COLORS['TD']
 ALG_COLORS['LSETD'] = ALG_COLORS['ETD']
@@ -29,7 +30,7 @@ EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '
 
 if DEBUG_MODE:
     EXPS = ['MountainCar']
-    ALGS = ['SARSA']
+    ALGS = ['SARSA', 'ESARSA', 'ESARSAH']
     LMBDA_AND_ZETA = [0.0]
     AUC_AND_FINAL = ['auc']
-    ALG_GROUPS = {'new': ['SARSA']}
+    ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'ESARSAH']}

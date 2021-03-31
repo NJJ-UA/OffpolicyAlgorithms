@@ -164,17 +164,17 @@ class MountainCarAttr:
     def __init__(self, exp_name):
         json_exp_params = load_sample_json_for_exp(exp_name)
         self.size_of_labels = 25
-        self.y_lim = [0.0, 5000]
+        self.y_lim = [0.0, 5100]
         self.x_lim = [0.0, json_exp_params['number_of_steps']]
         self.y_axis_ticks = [1000, 2000, 3000, 4000, 5000]
         #self.y_tick_labels = ['1K', '2k', '3K', '4k', '5k']
         self.x_axis_ticks = [0.0, 50, 100]
         self.x_tick_labels = [0, '50', '100']
-        self.x_axis_ticks_log = [pow(2, -16), pow(2, -13), pow(2, -10), pow(2, -7), pow(2, -4), pow(2, -1)]
-        self.x_axis_tick_labels_log = [16, 13, 10, 7, 4, 1]
-        self.over_limit_replacement = 2.0
+        self.x_axis_ticks_log = [pow(2, -4), pow(2, -3), pow(2, -2), pow(2, -1)]
+        self.x_axis_tick_labels_log = [4, 3, 2, 1]
+        self.over_limit_replacement = 5100
         self.over_limit_waterfall = 0.79
-        self.learning_starting_point = 0.68910
+        self.learning_starting_point = 5100
 
 def replace_large_nan_inf(arr, large=1.0, replace_with=2.0):
     arr[np.isnan(arr)], arr[np.isinf(arr)], arr[arr > large] = replace_with, replace_with, replace_with

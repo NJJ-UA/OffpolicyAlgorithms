@@ -14,6 +14,7 @@ def load_best_performance_over_alpha(alg, exp, auc_or_final, best_params, exp_at
     load_file_name = os.path.join(res_path, create_name_for_save_load(
         best_params, excluded_params=['alpha']) + f'_mean_{auc_or_final}_over_alpha{postfix}.npy')
     performance_over_alpha = np.load(load_file_name)
+    print(performance_over_alpha)
     performance_over_alpha = replace_large_nan_inf(
         performance_over_alpha, large=exp_attrs.learning_starting_point,
         replace_with=exp_attrs.over_limit_replacement)
@@ -23,6 +24,7 @@ def load_best_performance_over_alpha(alg, exp, auc_or_final, best_params, exp_at
     std_err_of_best_perf_over_alpha = np.load(stderr_load_file_name)
     std_err_of_best_perf_over_alpha = replace_large_nan_inf(
         std_err_of_best_perf_over_alpha, large=exp_attrs.learning_starting_point, replace_with=0.0)
+    #print(performance_over_alpha)
     return performance_over_alpha, std_err_of_best_perf_over_alpha
 
 

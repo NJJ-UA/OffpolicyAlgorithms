@@ -97,6 +97,8 @@ def learnControl(config: Configuration):
 
                 if agent.time_step >= task.STEP_LIMIT:
                     steps[episode, run] = agent.time_step
+                    agent.state = env.reset()
+                    agent.reset()
                     print('Step Limit Exceeded!')
                     break
                 agent.state = agent.next_state
