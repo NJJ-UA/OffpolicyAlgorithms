@@ -15,5 +15,9 @@ from Algorithms.LSETD import LSETD
 from Algorithms.SARSA import SARSA
 from Algorithms.ESARSA import ESARSA
 from Algorithms.ESARSAH import ESARSAH
+from Algorithms.Q import Q
+from Algorithms.EQ import EQ
+from Algorithms.EQH import EQH
 alg_dict = {'TD': TD, 'ETD': ETD, 'ETDH': ETDH, 'Vtrace': Vtrace, 'ABTD': ABTD, 'GTD': GTD, 'TB': TB, 'GTD2': GTD2, 'HTD': HTD,
-            'ETDLB': ETDLB, 'PGTD2': PGTD2, 'TDRC': TDRC, 'LSTD': LSTD, 'LSETD': LSETD, 'SARSA': SARSA, 'ESARSA': ESARSA, 'ESARSAH': ESARSAH}
+            'ETDLB': ETDLB, 'PGTD2': PGTD2, 'TDRC': TDRC, 'LSTD': LSTD, 'LSETD': LSETD, 'SARSA': SARSA, 'ESARSA': ESARSA, 'ESARSAH': ESARSAH,
+            'Q': Q, 'EQ': EQ, 'EQH': EQH}

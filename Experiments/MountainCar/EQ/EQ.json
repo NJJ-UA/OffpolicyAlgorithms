@@ -1,5 +1,5 @@
 {
-  "agent": "SARSA",
+  "agent": "EQ",
   "environment": "MountainCar",
   "task": "MountainCarTileCodingFeat",
   "number_of_runs": 100,

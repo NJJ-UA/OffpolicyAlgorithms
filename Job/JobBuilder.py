@@ -14,14 +14,14 @@ default_params = ImmutableDict(
         # 'task': 'LearnEightPoliciesTileCodingFeat',
         # 'environment': 'FourRoomGridWorld',
         # 'exp': 'FirstFourRoom',
-        'agent': 'ESARSAH',
+        'agent': 'EQH',
         'task': 'MountainCarTileCodingFeat',
         'environment': 'MountainCar',
         'exp': 'MountainCar',
 
         'sub_sample': 1,
         'num_of_runs': 5,
-        'num_steps': 20,
+        'num_steps': 5,
         'meta_parameters': {
             'alpha':  0.0625,
             'eta': 16.0,
