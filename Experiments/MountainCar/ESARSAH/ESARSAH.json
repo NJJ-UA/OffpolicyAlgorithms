@@ -2,12 +2,12 @@
   "agent": "ESARSAH",
   "environment": "MountainCar",
   "task": "MountainCarTileCodingFeat",
-  "number_of_runs": 100,
+  "number_of_runs": 20,
   "number_of_steps": 100,
   "sub_sample": 1,
   "meta_parameters": {
     "alpha": [
-      0.03125, 0.0625, 0.125, 0.25, 0.5, 1
+      0.03125, 0.0625, 0.125, 0.25, 0.5
     ],
     "lmbda": [
       0.0
