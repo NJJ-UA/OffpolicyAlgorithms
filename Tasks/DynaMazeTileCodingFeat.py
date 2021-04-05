@@ -11,7 +11,7 @@ class DynaMazeTileCodingFeat(BaseTask, DynaMaze):
         BaseTask.__init__(self)
         DynaMaze.__init__(self)
 
-        self.tilecode = Tile(4, [4, 4], [0, self.WORLD_WIDTH], [0, self.WORLD_HEIGHT], [1, 3], len(self.actions))
+        self.tilecode = Tile(4, [4, 4], [0, self.WORLD_HEIGHT - 1], [0, self.WORLD_WIDTH - 1], [1, 3], len(self.ACTIONS))
         #self.feature_rep = self.load_feature_rep()
         self.num_features = self.tilecode.total_size
         self.num_steps = kwargs.get('num_steps', 100)
@@ -66,7 +66,7 @@ class Tile:
             #print(self.tiling_x)
             #print(self.tiling_y)
             #print(x_ind)
-            tiles[self.tiling_x * self.tiling_y * self.num_tiling*(action+1) + i*self.tiling_x * self.tiling_y + y_ind * self.tiling_x + x_ind] = 1
+            tiles[self.tiling_x * self.tiling_y * self.num_tiling*(action) + i*self.tiling_x * self.tiling_y + y_ind * self.tiling_x + x_ind] = 1
             #tiles[i*self.tiling_x * self.tiling_y + x_ind] = 1
             #tiles[i*self.tiling_x * self.tiling_y + y_ind] = 1
         #tiles[self.get_action_ind(action)] = 1

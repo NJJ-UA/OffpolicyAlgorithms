@@ -14,7 +14,7 @@ class DynaMaze:
         self.ACTION_DOWN = 1
         self.ACTION_LEFT = 2
         self.ACTION_RIGHT = 3
-        self.actions = [self.ACTION_UP, self.ACTION_DOWN, self.ACTION_LEFT, self.ACTION_RIGHT]
+        self.ACTIONS = [self.ACTION_UP, self.ACTION_DOWN, self.ACTION_LEFT, self.ACTION_RIGHT]
 
         # start state
         self.START_STATE = (2, 0)

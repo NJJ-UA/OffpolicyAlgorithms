@@ -6,9 +6,6 @@ class BaseTDControl:
         self.task = task
         self.w = np.zeros(self.task.num_features)
         self.z = np.zeros(self.task.num_features)
-        if self.task.num_policies > 1:
-            self.w = np.zeros((self.task.num_policies, self.task.num_features))
-            self.z = np.zeros((self.task.num_policies, self.task.num_features))
         self.gamma = self.task.GAMMA
         self.alpha = kwargs['alpha']
         self.lmbda = kwargs.get('lmbda')
