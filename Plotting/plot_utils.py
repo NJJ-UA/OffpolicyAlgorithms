@@ -170,8 +170,8 @@ class MountainCarAttr:
         #self.y_tick_labels = ['1K', '2k', '3K', '4k', '5k']
         self.x_axis_ticks = [0.0, 50, 100]
         self.x_tick_labels = [0, '50', '100']
-        self.x_axis_ticks_log = [pow(2, -4), pow(2, -3), pow(2, -2), pow(2, -1), pow(2, 0)]
-        self.x_axis_tick_labels_log = [4, 3, 2, 1, 0]
+        self.x_axis_ticks_log = [pow(2, -5), pow(2, -4), pow(2, -3), pow(2, -2), pow(2, -1) ]
+        self.x_axis_tick_labels_log = [5, 4, 3, 2, 1]
         self.over_limit_replacement = 5100
         self.over_limit_waterfall = 0.79
         self.learning_starting_point = 5100

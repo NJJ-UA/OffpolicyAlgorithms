@@ -30,7 +30,7 @@ EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '
 
 if DEBUG_MODE:
     EXPS = ['MountainCar']
-    ALGS = ['SARSA', 'ESARSA', 'ESARSAH','Q','EQH']
+    ALGS = ['SARSA', 'ESARSA',  'Q', 'EQ']
     LMBDA_AND_ZETA = [0.0]
     AUC_AND_FINAL = ['auc']
-    ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'ESARSAH','Q','EQH']}
+    ALG_GROUPS = {'new': ['SARSA', 'ESARSA',  'Q', 'EQ']}
