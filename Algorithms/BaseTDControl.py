@@ -13,9 +13,6 @@ class BaseTDControl:
         #self.state_values = self.task.load_state_values()  # This is of size num_policies * 121
         #self.d_mu = self.task.load_behavior_dist()  # same size as state_values
         self.state, self.next_state, self.action, self.next_action = None, None, None, None
-        self.r_vec = np.zeros(self.task.num_policies)
-        self.gamma_vec_tp = np.zeros(self.task.num_policies)
-        self.gamma_vec_t = np.zeros(self.task.num_policies)
         self.time_step = 0
 
     @staticmethod
@@ -37,16 +34,18 @@ class BaseTDControl:
         values = []
         for action in self.task.ACTIONS:
             values.append(self.get_value(s, action))
-        return self.task.ACTIONS[np.random.choice(np.argwhere(values == np.amax(values)).flatten().tolist())]
+        #return self.task.ACTIONS[np.argmax(values)]
+        max_list = np.argwhere(values == np.amax(values))
+        if len(max_list) == 0:
+            return self.task.ACTIONS[np.argmax(values)]
+        else:
+            return self.task.ACTIONS[np.random.choice(max_list.flatten().tolist())]
 
     def choose_target_action(self, s):
         return self.choose_behavior_action(s)
 
     def learn(self, s, s_p, a, a_p, r, is_terminal):
-        if self.task.num_policies == 1:
-            self.learn_single_policy(s, s_p, a, a_p, r, is_terminal)
-        else:
-            self.learn_multiple_policies(s, s_p, a, a_p, r, is_terminal)
+        self.learn_single_policy(s, s_p, a, a_p, r, is_terminal)
         self.time_step += 1
 
     def get_features(self, s, s_p, a, a_p, is_terminal):
@@ -76,9 +75,6 @@ class BaseTDControl:
         delta = self.get_delta(r, x, x_p)
         self.z = rho * (self.gamma * self.lmbda * self.z + x)
         return delta, alpha, x, x_p, rho
-
-    def learn_multiple_policies(self, s, s_p, a, a_p, r, is_terminal):
-        ...
 
     def reset(self):
         self.z = np.zeros(self.task.num_features)

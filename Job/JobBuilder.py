@@ -21,9 +21,9 @@ default_params = ImmutableDict(
 
         'sub_sample': 1,
         'num_of_runs': 5,
-        'num_steps': 5,
+        'num_steps': 100,
         'meta_parameters': {
-            'alpha':  0.0625,
+            'alpha':  0.125,
             'eta': 16.0,
             'beta': 0.9,
             'zeta': 0.1,

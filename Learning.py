@@ -76,6 +76,7 @@ def learnControl(config: Configuration):
         env = environment_dict[config.environment]()
         task = task_dict[config.task](run_number=run, num_steps=config.num_steps)
         agent = alg_dict[config.algorithm](task, **params)
+        print()
 
         agent.state = env.reset()
         #rmsve_of_run = np.zeros((task.num_policies, task.num_steps))
