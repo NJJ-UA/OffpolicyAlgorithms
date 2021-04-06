@@ -1,0 +1,119 @@
+/var/spool/slurm/slurmd/job5110707/slurm_script: line 25: /home/s/sutton/njqgame/RLENV/bin/activate: No such file or directory
+The number of available cores is echo 
+Current working directory is /gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+Running on hostname nia1948.scinet.local
+Starting run at: Tue Apr  6 03:00:44 EDT 2021
+MountainCar
+MountainCar
+MountainCar
+MountainCar
+Step Limit Exceeded!
+MountainCar
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Program test finished with exit code 0 at: Tue Apr  6 03:05:07 EDT 2021
+
+scontrol show jobid 5110707
+JobId=5110707 JobName=MountainCarTileCodingFeat_SARSA
+   UserId=njqgame(3108162) GroupId=sutton(6000291) MCS_label=N/A
+   Priority=463005 Nice=0 Account=def-sutton QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:04:25 TimeLimit=02:59:00 TimeMin=N/A
+   SubmitTime=2021-04-06T02:29:56 EligibleTime=2021-04-06T02:29:56
+   AccrueTime=2021-04-06T02:29:56
+   StartTime=2021-04-06T03:00:43 EndTime=2021-04-06T03:05:08 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-04-06T03:00:42
+   Partition=compute AllocNode:Sid=nia-login05:349101
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia1948
+   BatchHost=nia1948
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,mem=175000M,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Submit_Jobs.SL
+   WorkDir=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+   StdErr=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5110707.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5110707.out
+   Power=
+   MailUser=njqgame@scinet.local MailType=NONE
+
+sacct -j 5110707
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+5110707      MountainC+ def-sutton   00:04:25                        00:00.677  00:00.829      0:0 
+5110707.bat+      batch def-sutton   00:04:25   1223764K     41368K  00:00.677  00:00.829      0:0 
+5110707.ext+     extern def-sutton   00:04:25    138360K      1064K   00:00:00   00:00:00      0:0 

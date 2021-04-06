@@ -1,0 +1,84 @@
+/var/spool/slurm/slurmd/job5110702/slurm_script: line 25: /home/s/sutton/njqgame/RLENV/bin/activate: No such file or directory
+The number of available cores is echo 
+Current working directory is /gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+Running on hostname nia2007.scinet.local
+Starting run at: Tue Apr  6 02:51:24 EDT 2021
+DynaMaze
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+DynaMaze
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+DynaMaze
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+DynaMaze
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+DynaMaze
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+DynaMaze
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Program test finished with exit code 0 at: Tue Apr  6 02:54:21 EDT 2021
+
+scontrol show jobid 5110702
+JobId=5110702 JobName=DynaMazeTileCodingFeat_EQH
+   UserId=njqgame(3108162) GroupId=sutton(6000291) MCS_label=N/A
+   Priority=462988 Nice=0 Account=def-sutton QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:02:58 TimeLimit=02:59:00 TimeMin=N/A
+   SubmitTime=2021-04-06T02:29:13 EligibleTime=2021-04-06T02:29:13
+   AccrueTime=2021-04-06T02:29:13
+   StartTime=2021-04-06T02:51:23 EndTime=2021-04-06T02:54:21 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-04-06T02:51:23
+   Partition=compute AllocNode:Sid=nia-login05:349101
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia2007
+   BatchHost=nia2007
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,mem=175000M,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Submit_Jobs.SL
+   WorkDir=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+   StdErr=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5110702.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5110702.out
+   Power=
+   MailUser=njqgame@scinet.local MailType=NONE
+
+sacct -j 5110702
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+5110702      DynaMazeT+ def-sutton   00:02:58                        00:00.701  00:00.960      0:0 
+5110702.bat+      batch def-sutton   00:02:58   1412988K     45472K  00:00.701  00:00.959      0:0 
+5110702.ext+     extern def-sutton   00:02:58    138360K      1064K   00:00:00   00:00:00      0:0 

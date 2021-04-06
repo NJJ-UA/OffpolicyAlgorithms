@@ -1,0 +1,112 @@
+/var/spool/slurm/slurmd/job5110703/slurm_script: line 25: /home/s/sutton/njqgame/RLENV/bin/activate: No such file or directory
+The number of available cores is echo 
+Current working directory is /gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+Running on hostname nia2024.scinet.local
+Starting run at: Tue Apr  6 02:52:36 EDT 2021
+MountainCar
+/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Algorithms/ESARSA.py:16: RuntimeWarning: overflow encountered in multiply
+  self.w += self.compute_step_size() * delta * self.z
+/scinet/niagara/software/2019b/opt/base/python/3.6.8/lib/python3.6/site-packages/numpy/core/fromnumeric.py:83: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+Traceback (most recent call last):
+  File "Learning.py", line 151, in <module>
+    learnControl(config=config)
+  File "Learning.py", line 90, in learnControl
+    agent.next_action = agent.choose_behavior_action(agent.next_state)
+  File "/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Algorithms/BaseTDControl.py", line 40, in choose_behavior_action
+    return self.task.ACTIONS[np.random.choice(np.argwhere(values == np.amax(values)).flatten().tolist())]
+  File "mtrand.pyx", line 1126, in mtrand.RandomState.choice
+ValueError: a must be non-empty
+MountainCar
+/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Algorithms/ESARSA.py:16: RuntimeWarning: invalid value encountered in multiply
+  self.w += self.compute_step_size() * delta * self.z
+/scinet/niagara/software/2019b/opt/base/python/3.6.8/lib/python3.6/site-packages/numpy/core/fromnumeric.py:83: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+Traceback (most recent call last):
+  File "Learning.py", line 151, in <module>
+    learnControl(config=config)
+  File "Learning.py", line 90, in learnControl
+    agent.next_action = agent.choose_behavior_action(agent.next_state)
+  File "/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Algorithms/BaseTDControl.py", line 40, in choose_behavior_action
+    return self.task.ACTIONS[np.random.choice(np.argwhere(values == np.amax(values)).flatten().tolist())]
+  File "mtrand.pyx", line 1126, in mtrand.RandomState.choice
+ValueError: a must be non-empty
+MountainCar
+/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Algorithms/ESARSA.py:16: RuntimeWarning: invalid value encountered in multiply
+  self.w += self.compute_step_size() * delta * self.z
+/scinet/niagara/software/2019b/opt/base/python/3.6.8/lib/python3.6/site-packages/numpy/core/fromnumeric.py:83: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+Traceback (most recent call last):
+  File "Learning.py", line 151, in <module>
+    learnControl(config=config)
+  File "Learning.py", line 90, in learnControl
+    agent.next_action = agent.choose_behavior_action(agent.next_state)
+  File "/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Algorithms/BaseTDControl.py", line 40, in choose_behavior_action
+    return self.task.ACTIONS[np.random.choice(np.argwhere(values == np.amax(values)).flatten().tolist())]
+  File "mtrand.pyx", line 1126, in mtrand.RandomState.choice
+ValueError: a must be non-empty
+MountainCar
+/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Algorithms/ESARSA.py:16: RuntimeWarning: overflow encountered in multiply
+  self.w += self.compute_step_size() * delta * self.z
+/scinet/niagara/software/2019b/opt/base/python/3.6.8/lib/python3.6/site-packages/numpy/core/fromnumeric.py:83: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+Traceback (most recent call last):
+  File "Learning.py", line 151, in <module>
+    learnControl(config=config)
+  File "Learning.py", line 90, in learnControl
+    agent.next_action = agent.choose_behavior_action(agent.next_state)
+  File "/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Algorithms/BaseTDControl.py", line 40, in choose_behavior_action
+    return self.task.ACTIONS[np.random.choice(np.argwhere(values == np.amax(values)).flatten().tolist())]
+  File "mtrand.pyx", line 1126, in mtrand.RandomState.choice
+ValueError: a must be non-empty
+MountainCar
+/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Algorithms/ESARSA.py:16: RuntimeWarning: overflow encountered in multiply
+  self.w += self.compute_step_size() * delta * self.z
+/scinet/niagara/software/2019b/opt/base/python/3.6.8/lib/python3.6/site-packages/numpy/core/fromnumeric.py:83: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+Traceback (most recent call last):
+  File "Learning.py", line 151, in <module>
+    learnControl(config=config)
+  File "Learning.py", line 90, in learnControl
+    agent.next_action = agent.choose_behavior_action(agent.next_state)
+  File "/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Algorithms/BaseTDControl.py", line 40, in choose_behavior_action
+    return self.task.ACTIONS[np.random.choice(np.argwhere(values == np.amax(values)).flatten().tolist())]
+  File "mtrand.pyx", line 1126, in mtrand.RandomState.choice
+ValueError: a must be non-empty
+Program test finished with exit code 5 at: Tue Apr  6 02:52:38 EDT 2021
+
+scontrol show jobid 5110703
+JobId=5110703 JobName=MountainCarTileCodingFeat_ESARSA
+   UserId=njqgame(3108162) GroupId=sutton(6000291) MCS_label=N/A
+   Priority=463005 Nice=0 Account=def-sutton QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:04 TimeLimit=02:59:00 TimeMin=N/A
+   SubmitTime=2021-04-06T02:29:48 EligibleTime=2021-04-06T02:29:48
+   AccrueTime=2021-04-06T02:29:48
+   StartTime=2021-04-06T02:52:34 EndTime=2021-04-06T02:52:38 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-04-06T02:52:34
+   Partition=compute AllocNode:Sid=nia-login05:349101
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia2024
+   BatchHost=nia2024
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,mem=175000M,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Submit_Jobs.SL
+   WorkDir=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+   StdErr=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5110703.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5110703.out
+   Power=
+   MailUser=njqgame@scinet.local MailType=NONE
+
+sacct -j 5110703
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+5110703      MountainC+ def-sutton   00:00:04                        00:00.647  00:00.857      0:0 
+5110703.bat+      batch def-sutton   00:00:04    138528K      1256K  00:00.647  00:00.857      0:0 
+5110703.ext+     extern def-sutton   00:00:04    138360K       880K   00:00:00   00:00:00      0:0 
