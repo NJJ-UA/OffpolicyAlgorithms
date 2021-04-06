@@ -40,9 +40,9 @@ class DynaMaze:
             y = max(y - 1, 0)
         elif action == self.ACTION_RIGHT:
             y = min(y + 1, self.WORLD_WIDTH - 1)
-        if [x, y] in self.obstacles:
+        if (x, y) in self.obstacles:
             x, y = self._state
-        if [x, y] in self.GOAL_STATES:
+        if (x, y) in self.GOAL_STATES:
             reward = 1.0
             is_terminal = True
         else:

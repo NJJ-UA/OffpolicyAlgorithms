@@ -170,7 +170,23 @@ class MountainCarAttr:
         #self.y_tick_labels = ['1K', '2k', '3K', '4k', '5k']
         self.x_axis_ticks = [0.0, 50, 100]
         self.x_tick_labels = [0, '50', '100']
-        self.x_axis_ticks_log = [pow(2, -5), pow(2, -4), pow(2, -3), pow(2, -2), pow(2, -1) ]
+        self.x_axis_ticks_log = [pow(2, -6), pow(2, -5), pow(2, -4), pow(2, -3), pow(2, -2)]
+        self.x_axis_tick_labels_log = [6, 5, 4, 3, 2]
+        self.over_limit_replacement = 5100
+        self.over_limit_waterfall = 0.79
+        self.learning_starting_point = 5100
+
+class DynaMazeAttr:
+    def __init__(self, exp_name):
+        json_exp_params = load_sample_json_for_exp(exp_name)
+        self.size_of_labels = 25
+        self.y_lim = [0.0, 5100]
+        self.x_lim = [0.0, json_exp_params['number_of_steps']]
+        self.y_axis_ticks = [1000, 2000, 3000, 4000, 5000]
+        #self.y_tick_labels = ['1K', '2k', '3K', '4k', '5k']
+        self.x_axis_ticks = [0.0, 50, 100]
+        self.x_tick_labels = [0, '50', '100']
+        self.x_axis_ticks_log = [pow(2, -5), pow(2, -4), pow(2, -3), pow(2, -2), pow(2, -1)]
         self.x_axis_tick_labels_log = [5, 4, 3, 2, 1]
         self.over_limit_replacement = 5100
         self.over_limit_waterfall = 0.79

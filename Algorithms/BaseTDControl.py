@@ -37,10 +37,10 @@ class BaseTDControl:
         values = []
         for action in self.task.ACTIONS:
             values.append(self.get_value(s, action))
-        return np.argmax(values) - 1
+        return self.task.ACTIONS[np.random.choice(np.argwhere(values == np.amax(values)).flatten().tolist())]
 
-    def choose_target_action(self):
-        return self.choose_behavior_action()
+    def choose_target_action(self, s):
+        return self.choose_behavior_action(s)
 
     def learn(self, s, s_p, a, a_p, r, is_terminal):
         if self.task.num_policies == 1:
