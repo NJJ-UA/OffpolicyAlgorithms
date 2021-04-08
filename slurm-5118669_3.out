@@ -1,0 +1,47 @@
+/var/spool/slurm/slurmd/job5118975/slurm_script: line 9: /home/s/sutton/njqgame/RLENV/bin/activate: No such file or directory
+3 0.0625000000 0.00000 16.0000000000 0.90000 0.10000 1.00000 20 100 1
+Current working directory is /gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+Running on hostname nia1447.scinet.local
+
+Starting run at: Wed Apr  7 14:03:27 EDT 2021
+  File "Learning.py", line 12
+    def learn(config: Configuration):
+                    ^
+SyntaxError: invalid syntax
+Program test finished with exit code 1 at: Wed Apr  7 14:03:27 EDT 2021
+
+scontrol show jobid 5118975
+JobId=5118975 ArrayJobId=5118669 ArrayTaskId=3 JobName=DynaMazeTileCodingFeat_EQ
+   UserId=njqgame(3108162) GroupId=sutton(6000291) MCS_label=N/A
+   Priority=583890 Nice=0 Account=def-sutton QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:07 TimeLimit=00:16:00 TimeMin=N/A
+   SubmitTime=2021-04-07T13:08:07 EligibleTime=2021-04-07T13:08:09
+   AccrueTime=2021-04-07T13:08:09
+   StartTime=2021-04-07T14:03:22 EndTime=2021-04-07T14:03:29 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-04-07T14:03:22
+   Partition=compute AllocNode:Sid=nia-login06:364352
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia1447
+   BatchHost=nia1447
+   NumNodes=1 NumCPUs=80 NumTasks=1 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,mem=175000M,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:* CoreSpec=*
+   MinCPUsNode=1 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Submit_Jobs.SL
+   WorkDir=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+   StdErr=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5118669_3.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5118669_3.out
+   Power=
+   MailUser=njqgame@scinet.local MailType=NONE
+
+sacct -j 5118975
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+5118669_3    DynaMazeT+ def-sutton   00:00:07                        00:00.127  00:00.091      0:0 
+5118669_3.b+      batch def-sutton   00:00:07    138528K      1244K  00:00.127  00:00.090      0:0 
+5118669_3.e+     extern def-sutton   00:00:07    138360K       876K   00:00:00   00:00:00      0:0 
