@@ -29,10 +29,14 @@ AUC_AND_FINAL = ['auc', 'final']
 EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '1HVFourRoom': HVFirstFourRoomAttr,'NewChain': FirstChainAttr,'NewFourRoom': FirstFourRoomAttr,'NewHVFourRoom': HVFirstFourRoomAttr,'MountainCar': MountainCarAttr,'DynaMaze': DynaMazeAttr}
 
 if DEBUG_MODE:
-    EXPS = ['DynaMaze']
-    ALGS = ['SARSA', 'ESARSA', 'ESARSAH', 'Q', 'EQ', 'EQH']
-    #ALGS = ['SARSA',  'ESARSA', 'Q',  'EQ']
+    EXPS = ['MountainCar']
+    #ALGS = ['SARSA', 'ESARSA', 'ESARSAH']
+    #ALGS = ['Q', 'EQ', 'EQH']
+    #ALGS = ['SARSA', 'ESARSA', 'ESARSAH', 'Q', 'EQ', 'EQH']
+    ALGS = ['SARSA',  'ESARSA', 'Q',  'EQ']
     LMBDA_AND_ZETA = [0.0]
     AUC_AND_FINAL = ['auc']
-    ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'ESARSAH', 'Q', 'EQ', 'EQH']}
-    #ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'Q', 'EQ']}
+    #ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'ESARSAH']}
+    #ALG_GROUPS = {'new': ['Q', 'EQ', 'EQH']}
+    #ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'ESARSAH', 'Q', 'EQ', 'EQH']}
+    ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'Q', 'EQ']}
