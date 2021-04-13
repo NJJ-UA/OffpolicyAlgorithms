@@ -9,7 +9,7 @@ from utils import create_name_for_save_load
 
 
 def load_data(alg, exp, best_params, postfix=''):
-    if exp in ['MountainCar', 'DynaMaze']:
+    if exp in ['MountainCar', 'DynaMaze','DynaMazeCoarse']:
         evalu = 'steps'
     else:
         evalu = 'RMSVE'

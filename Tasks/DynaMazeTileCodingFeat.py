@@ -12,7 +12,7 @@ class DynaMazeTileCodingFeat(BaseTask, DynaMaze):
         DynaMaze.__init__(self)
 
         #4[3,3]
-        self.tilecode = Tile(3, [2, 2], [0, self.WORLD_HEIGHT - 1], [0, self.WORLD_WIDTH - 1], [1, 3], len(self.ACTIONS))
+        self.tilecode = Tile(4, [2, 2], [0, self.WORLD_HEIGHT - 1], [0, self.WORLD_WIDTH - 1], [1, 3], len(self.ACTIONS))
         #self.feature_rep = self.load_feature_rep()
         self.num_features = self.tilecode.total_size
         self.num_steps = kwargs.get('num_steps', 100)

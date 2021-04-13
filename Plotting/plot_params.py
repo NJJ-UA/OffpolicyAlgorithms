@@ -27,10 +27,10 @@ ALGS.remove('LSTD')
 ALGS.remove('LSETD')
 LMBDA_AND_ZETA = [0.0, 0.9]
 AUC_AND_FINAL = ['auc', 'final']
-EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '1HVFourRoom': HVFirstFourRoomAttr,'NewChain': FirstChainAttr,'NewFourRoom': FirstFourRoomAttr,'NewHVFourRoom': HVFirstFourRoomAttr,'MountainCar': MountainCarAttr,'DynaMaze': DynaMazeAttr}
+EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '1HVFourRoom': HVFirstFourRoomAttr,'NewChain': FirstChainAttr,'NewFourRoom': FirstFourRoomAttr,'NewHVFourRoom': HVFirstFourRoomAttr,'MountainCar': MountainCarAttr,'DynaMaze': DynaMazeAttr,'DynaMazeCoarse': DynaMazeAttr}
 
 if DEBUG_MODE:
-    EXPS = ['DynaMaze']
+    EXPS = ['DynaMazeCoarse']
     #ALGS = ['SARSA', 'ESARSA', 'ESARSAH']
     ALGS = ['SARSA', 'ESARSA_VI', 'ESARSAH_VI']
     #ALGS = ['Q', 'EQ', 'EQH']
