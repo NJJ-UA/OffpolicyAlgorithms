@@ -17,7 +17,7 @@ default_params = ImmutableDict(
         'agent': 'EQ_VI',
         'task': 'DynaMazeTileCodingFeat',
         'environment': 'DynaMaze',
-        'exp': 'DynaMaze',
+        'exp': 'DynaMazeCoarse',
 
         'sub_sample': 1,
         'num_of_runs': 5,
