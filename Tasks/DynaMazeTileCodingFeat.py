@@ -31,6 +31,7 @@ class DynaMazeTileCodingFeat(BaseTask, DynaMaze):
         return self.tilecode.tiles(s, a)
 
 class Tile:
+    # Note num_tiling%dis_vec[1] can't be 0, for example, if num_tiling=3, dis_vec can't be [1,3]
     def __init__(self, num_tiling, tiling_size, x_range, y_range, dis_vec, num_actions):
         self.num_tiling = num_tiling
         self.tiling_x, self.tiling_y = tiling_size

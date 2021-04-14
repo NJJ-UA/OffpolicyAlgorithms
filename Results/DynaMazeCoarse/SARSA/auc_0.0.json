@@ -1,0 +1,12 @@
+{
+    "agent": "SARSA",
+    "environment": "DynaMaze",
+    "task": "DynaMazeTileCodingFeat",
+    "number_of_runs": 20,
+    "number_of_steps": 100,
+    "sub_sample": 1,
+    "meta_parameters": {
+        "alpha": 0.125,
+        "lmbda": 0.0
+    }
+}

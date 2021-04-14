@@ -3,7 +3,18 @@ from Algorithms.ESARSAH import ESARSAH
 
 class ESARSAH_VI(ESARSAH):
 
+    def compute_step_size(self):
+        if self.gamma == 1:
+            return self.alpha*2/(self.time_step + 1)
+        else:
+            return self.alpha*2/(self.lmbda+(1-self.lmbda)/(1-self.gamma))
+
+
     def get_interest(self, s, a):
+        if s in [(4,3),(4,4)] and a == self.task.ACTION_UP:
+            return 1
+        else:
+            return 0.5
         if s in [(2, 0)] and a == self.task.ACTION_UP:
             return 0.1
         else:

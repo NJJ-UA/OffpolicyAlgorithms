@@ -17,6 +17,7 @@ def load_data(alg, exp, best_params, postfix=''):
     generic_name = create_name_for_save_load(best_params)
     load_file_name = os.path.join(res_path, f"{generic_name}_{evalu}_mean_over_runs{postfix}.npy")
     mean_lc = np.load(load_file_name)
+    print(mean_lc)
     load_file_name = os.path.join(res_path, f"{generic_name}_{evalu}_stderr_over_runs{postfix}.npy")
     stderr_lc = np.load(load_file_name)
     return mean_lc, stderr_lc

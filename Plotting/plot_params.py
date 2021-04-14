@@ -31,16 +31,16 @@ EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '
 
 if DEBUG_MODE:
     EXPS = ['DynaMazeCoarse']
-    #ALGS = ['SARSA', 'ESARSA', 'ESARSAH']
-    ALGS = ['SARSA', 'ESARSA_VI', 'ESARSAH_VI']
+    ALGS = ['SARSA', 'ESARSA', 'ESARSAH']
+    #ALGS = ['SARSA', 'ESARSA_VI', 'ESARSAH_VI']
     #ALGS = ['Q', 'EQ', 'EQH']
     #ALGS = ['Q', 'EQ_VI', 'EQH_VI']
     #ALGS = ['SARSA', 'ESARSA', 'ESARSAH', 'Q', 'EQ', 'EQH']
     #ALGS = ['SARSA',  'ESARSA', 'Q',  'EQ']
     LMBDA_AND_ZETA = [0.0]
     AUC_AND_FINAL = ['auc']
-    #ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'ESARSAH']}
-    ALG_GROUPS = {'new': ['SARSA', 'ESARSA_VI', 'ESARSAH_VI']}
+    ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'ESARSAH']}
+    #ALG_GROUPS = {'new': ['SARSA', 'ESARSA_VI', 'ESARSAH_VI']}
     #ALG_GROUPS = {'new': ['Q', 'EQ', 'EQH']}
     #ALG_GROUPS = {'new': ['Q', 'EQ_VI', 'EQH_VI']}
     #ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'ESARSAH', 'Q', 'EQ', 'EQH']}
