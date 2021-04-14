@@ -148,7 +148,7 @@ if __name__ == '__main__':
 
     config = Configuration(vars(args))
     print(args.environment)
-    if args.environment in ['MountainCar', 'DynaMaze']:
+    if args.environment in ['MountainCar', 'DynaMaze', 'DynaMazeSwitch']:
         learnControl(config=config)
     else:
         learn(config=config)
