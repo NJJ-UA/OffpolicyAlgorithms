@@ -1,0 +1,13 @@
+{
+  "agent": "DQN_Agent",
+  "task": "CartPoleImageFeat",
+  "environment": "CartPole-v0",
+  "number_of_runs": 10,
+  "number_of_steps": 100,
+  "sub_sample": 1,
+  "meta_parameters": {
+    "alpha": [
+      0.0078125, 0.015625, 0.03125, 0.0625, 0.125, 0.25, 0.5, 1.0
+    ]
+  }
+}

@@ -70,9 +70,10 @@ def make_params(alg_name, exp_name):
     fp_list = params.get('alpha', params['alpha'])
     tp_list = [0.0]
     fop_list = [0.0]
+    sp_list = [0.0]
     if 'lmbda' in params:
         sp_list = params['lmbda']
-    else:
+    elif 'zeta' in params:
         sp_list = params['zeta']
     if 'eta' in params:
         tp_list = params['eta']
@@ -90,7 +91,7 @@ def make_current_params(alg_name, sp, tp, fop, fp=0):
     alg_param_names = alg_dict[alg_name].related_parameters()
     if 'lmbda' in alg_param_names:
         current_params['lmbda'] = sp
-    else:
+    elif 'zeta' in alg_param_names:
         current_params['zeta'] = sp
     if 'eta' in alg_param_names:
         current_params['eta'] = tp
@@ -188,6 +189,22 @@ class DynaMazeAttr:
         self.x_tick_labels = [0, '50', '100']
         self.x_axis_ticks_log = [pow(2, -5), pow(2, -4), pow(2, -3), pow(2, -2), pow(2, -1)]
         self.x_axis_tick_labels_log = [5, 4, 3, 2, 1]
+        self.over_limit_replacement = 5100
+        self.over_limit_waterfall = 0.79
+        self.learning_starting_point = 5100
+
+class CartPoleAttr:
+    def __init__(self, exp_name):
+        json_exp_params = load_sample_json_for_exp(exp_name)
+        self.size_of_labels = 25
+        self.y_lim = [0.0, 500]
+        self.x_lim = [0.0, json_exp_params['number_of_steps']]
+        self.y_axis_ticks = [100, 200, 300, 400, 500]
+        #self.y_tick_labels = ['1K', '2k', '3K', '4k', '5k']
+        self.x_axis_ticks = [0.0, 50, 100]
+        self.x_tick_labels = [0, '50', '100']
+        self.x_axis_ticks_log = [pow(2, -6), pow(2, -5), pow(2, -4), pow(2, -3), pow(2, -2)]
+        self.x_axis_tick_labels_log = [6, 5, 4, 3, 2]
         self.over_limit_replacement = 5100
         self.over_limit_waterfall = 0.79
         self.learning_starting_point = 5100

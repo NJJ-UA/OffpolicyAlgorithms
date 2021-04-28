@@ -9,10 +9,10 @@ from utils import create_name_for_save_load
 
 
 def load_data(alg, exp, best_params, postfix=''):
-    if exp in ['MountainCar', 'DynaMaze','DynaMazeCoarse','DynaMazeCoarseSwitchGoal']:
-        evalu = 'steps'
-    else:
+    if exp in ['FirstChain', 'FirstFourRoom', '1HVFourRoom', 'NewChain', 'NewFourRoom', 'NewHVFourRoom']:
         evalu = 'RMSVE'
+    else:
+        evalu = 'steps'
     res_path = os.path.join(os.getcwd(), 'Results', exp, alg)
     generic_name = create_name_for_save_load(best_params)
     load_file_name = os.path.join(res_path, f"{generic_name}_{evalu}_mean_over_runs{postfix}.npy")

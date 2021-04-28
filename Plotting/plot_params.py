@@ -1,4 +1,4 @@
-from Plotting.plot_utils import FirstChainAttr, FirstFourRoomAttr, HVFirstFourRoomAttr, MountainCarAttr, DynaMazeAttr
+from Plotting.plot_utils import FirstChainAttr, FirstFourRoomAttr, HVFirstFourRoomAttr, MountainCarAttr, DynaMazeAttr, CartPoleAttr
 from Registry.AlgRegistry import alg_dict
 
 
@@ -28,13 +28,13 @@ ALGS.remove('LSTD')
 ALGS.remove('LSETD')
 LMBDA_AND_ZETA = [0.0, 0.9]
 AUC_AND_FINAL = ['auc', 'final']
-EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '1HVFourRoom': HVFirstFourRoomAttr,'NewChain': FirstChainAttr,'NewFourRoom': FirstFourRoomAttr,'NewHVFourRoom': HVFirstFourRoomAttr,'MountainCar': MountainCarAttr,'DynaMaze': DynaMazeAttr,'DynaMazeCoarse': DynaMazeAttr, 'DynaMazeCoarseSwitchGoal': DynaMazeAttr}
+EXP_ATTRS = {'FirstChain': FirstChainAttr, 'FirstFourRoom': FirstFourRoomAttr, '1HVFourRoom': HVFirstFourRoomAttr,'NewChain': FirstChainAttr,'NewFourRoom': FirstFourRoomAttr,'NewHVFourRoom': HVFirstFourRoomAttr,'MountainCar': MountainCarAttr,'DynaMaze': DynaMazeAttr,'DynaMazeCoarse': DynaMazeAttr, 'DynaMazeCoarseSwitchGoal': DynaMazeAttr,'CartPoleImage': CartPoleAttr}
 
 if DEBUG_MODE:
-    EXPS = ['DynaMaze']
+    EXPS = ['CartPoleImage']
     #ALGS = ['SARSA', 'ESARSA', 'ESARSAH']
     #ALGS = ['SARSA', 'ESARSA_VI', 'ESARSAH_VI']
-    ALGS = ['Q', 'EQ', 'EQH']
+    ALGS = ['DQN_Agent']
     #ALGS = ['Q', 'EQ_VI', 'EQH_VI']
     #ALGS = ['SARSA', 'ESARSA', 'ESARSAH', 'Q', 'EQ', 'EQH']
     #ALGS = ['SARSA',  'ESARSA', 'Q',  'EQ']
@@ -42,7 +42,7 @@ if DEBUG_MODE:
     AUC_AND_FINAL = ['auc']
     #ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'ESARSAH']}
     #ALG_GROUPS = {'new': ['SARSA', 'ESARSA_VI', 'ESARSAH_VI']}
-    ALG_GROUPS = {'new': ['Q', 'EQ', 'EQH']}
+    ALG_GROUPS = {'new': ['DQN_Agent']}
     #ALG_GROUPS = {'new': ['Q', 'EQ_VI', 'EQH_VI']}
     #ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'ESARSAH', 'Q', 'EQ', 'EQH']}
     #ALG_GROUPS = {'new': ['SARSA', 'ESARSA', 'Q', 'EQ']}
