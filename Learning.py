@@ -37,13 +37,14 @@ def learn(config: Configuration):
     steps = np.zeros((config.num_steps, config.num_of_runs))
     for run in range(config.num_of_runs):
         random_seed = (run + config.num_of_runs) if config.rerun else run
-        np.random.seed(random_seed)
+        #np.random.seed(random_seed)
         task = task_dict[config.task](run_number=run, num_episodes=config.num_steps, device=device)
         agent = alg_dict[config.algorithm](task, **params)
 
-        # Initialize the environment and state
-        agent.state = task.reset()
         for episode in range(task.num_episodes):
+            # Initialize the environment and state
+            agent.state = task.reset()
+            agent.reset()
             while True:
                 # Select and perform an action
                 agent.action = agent.select_action(agent.state)
@@ -54,19 +55,18 @@ def learn(config: Configuration):
 
                 if is_terminal:
                     steps[episode, run] = agent.time_step
-                    agent.state = task.reset()
-                    agent.reset()
                     break
 
                 if agent.time_step >= task.STEP_LIMIT:
                     steps[episode, run] = agent.time_step
-                    agent.state = task.reset()
-                    agent.reset()
                     print('Step Limit Exceeded!')
                     break
 
                 # Move to the next state
                 agent.state = agent.next_state
+
+            if episode % agent.TARGET_UPDATE == 0:
+                agent.update_target()
         task.env.close()
 
     steps_of_runs = np.transpose(steps)

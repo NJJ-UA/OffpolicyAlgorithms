@@ -58,6 +58,11 @@ class DQN_Agent:
     def reset(self):
         self.time_step = 0
 
+    def update_target(self):
+        print(self.target_net)
+        self.target_net.load_state_dict(self.policy_net.state_dict())
+        print(self.target_net)
+
     def optimize_model(self):
         if len(self.memory) < self.BATCH_SIZE:
             return
