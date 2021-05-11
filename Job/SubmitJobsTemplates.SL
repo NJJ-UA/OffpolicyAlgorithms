@@ -23,7 +23,7 @@ task=__TASK__
 save_path=__SAVEPATH__
 
 
-source ~/DQNENV/bin/activate
+source ~/RLENV/bin/activate
 module load NiaEnv/2019b
 module load gnu-parallel
 module load python/3.8.5
