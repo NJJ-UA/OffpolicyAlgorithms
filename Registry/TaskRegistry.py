@@ -4,9 +4,13 @@ from Tasks.HighVarianceLearnEightPoliciesTileCodingFeat import HighVarianceLearn
 from Tasks.MountainCarTileCodingFeat import MountainCarTileCodingFeat
 from Tasks.DynaMazeTileCodingFeat import DynaMazeTileCodingFeat
 from Tasks.CartPoleImageFeat import CartPoleImageFeat
+from Tasks.MountainCarImageFeat import MountainCarImageFeat
+from Tasks.MountainCarGymNumFeat import MountainCarGymNumFeat
 task_dict = {'EightStateOffPolicyRandomFeat': EightStateOffPolicyRandomFeat,
              'LearnEightPoliciesTileCodingFeat': LearnEightPoliciesTileCodingFeat,
              'HighVarianceLearnEightPoliciesTileCodingFeat': HighVarianceLearnEightPoliciesTileCodingFeat,
              'MountainCarTileCodingFeat': MountainCarTileCodingFeat,
              'DynaMazeTileCodingFeat': DynaMazeTileCodingFeat,
-             'CartPoleImageFeat': CartPoleImageFeat}
+             'CartPoleImageFeat': CartPoleImageFeat,
+             'MountainCarImageFeat': MountainCarImageFeat,
+             'MountainCarGymNumFeat': MountainCarGymNumFeat}

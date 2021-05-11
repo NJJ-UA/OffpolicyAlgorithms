@@ -23,6 +23,7 @@ from Algorithms.EQH import EQH
 from Algorithms.EQ_VI import EQ_VI
 from Algorithms.EQH_VI import EQH_VI
 from Algorithms.DQN_Agent import DQN_Agent
+from Algorithms.DQN_Agent_num import DQN_Agent_num
 alg_dict = {'TD': TD, 'ETD': ETD, 'ETDH': ETDH, 'Vtrace': Vtrace, 'ABTD': ABTD, 'GTD': GTD, 'TB': TB, 'GTD2': GTD2, 'HTD': HTD,
             'ETDLB': ETDLB, 'PGTD2': PGTD2, 'TDRC': TDRC, 'LSTD': LSTD, 'LSETD': LSETD, 'SARSA': SARSA, 'ESARSA': ESARSA, 'ESARSAH': ESARSAH, 'ESARSA_VI': ESARSA_VI, 'ESARSAH_VI': ESARSAH_VI,
-            'Q': Q, 'EQ': EQ, 'EQH': EQH, 'EQ_VI': EQ_VI, 'EQH_VI': EQH_VI, 'DQN_Agent': DQN_Agent}
+            'Q': Q, 'EQ': EQ, 'EQH': EQH, 'EQ_VI': EQ_VI, 'EQH_VI': EQH_VI, 'DQN_Agent': DQN_Agent, 'DQN_Agent_num': DQN_Agent_num}

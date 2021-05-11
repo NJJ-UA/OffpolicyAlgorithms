@@ -55,6 +55,7 @@ def learn(config: Configuration):
 
                 if is_terminal:
                     steps[episode, run] = agent.time_step
+                    print(agent.time_step)
                     break
 
                 if agent.time_step >= task.STEP_LIMIT:
@@ -65,8 +66,8 @@ def learn(config: Configuration):
                 # Move to the next state
                 agent.state = agent.next_state
 
-            if episode % agent.TARGET_UPDATE == 0:
-                agent.update_target()
+            #if episode % agent.TARGET_UPDATE == 0:
+            #    agent.update_target()
         task.env.close()
 
     steps_of_runs = np.transpose(steps)
