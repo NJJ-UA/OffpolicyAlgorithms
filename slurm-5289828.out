@@ -1,0 +1,1044 @@
+/var/spool/slurm/slurmd/job5289828/slurm_script: line 26: /home/s/sutton/njqgame/DQNENV/bin/activate: No such file or directory
+The number of available cores is echo 
+Current working directory is /gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+Running on hostname nia1881.scinet.local
+Starting run at: Tue May 11 07:12:43 EDT 2021
+MountainCar-v0
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+796
+Step Limit Exceeded!
+554
+504
+672
+432
+317
+219
+212
+178
+222
+148
+158
+149
+150
+150
+149
+211
+151
+140
+142
+144
+149
+136
+195
+204
+134
+216
+147
+154
+159
+150
+164
+191
+159
+161
+158
+155
+236
+145
+149
+156
+393
+225
+143
+143
+142
+148
+150
+146
+212
+138
+139
+142
+145
+148
+139
+144
+138
+136
+139
+148
+183
+149
+143
+204
+138
+147
+223
+230
+120
+192
+116
+140
+151
+115
+115
+145
+204
+190
+110
+141
+115
+112
+123
+122
+116
+258
+176
+328
+129
+117
+190
+124
+Step Limit Exceeded!
+119
+197
+Step Limit Exceeded!
+Step Limit Exceeded!
+991
+Step Limit Exceeded!
+612
+Step Limit Exceeded!
+722
+435
+309
+416
+671
+387
+346
+299
+305
+285
+413
+376
+192
+268
+190
+250
+210
+299
+160
+156
+169
+158
+153
+154
+222
+293
+152
+216
+371
+142
+152
+143
+150
+141
+150
+213
+140
+219
+242
+214
+176
+145
+152
+239
+218
+146
+222
+156
+157
+159
+317
+121
+153
+147
+250
+156
+147
+145
+145
+144
+143
+142
+144
+139
+145
+132
+183
+229
+159
+182
+118
+181
+127
+176
+184
+169
+345
+349
+299
+173
+316
+363
+185
+199
+250
+127
+207
+191
+158
+167
+222
+227
+237
+158
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+709
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+762
+453
+364
+237
+918
+341
+257
+Step Limit Exceeded!
+874
+Step Limit Exceeded!
+888
+575
+289
+394
+350
+Step Limit Exceeded!
+727
+405
+314
+226
+276
+213
+225
+327
+315
+211
+172
+202
+150
+207
+309
+169
+235
+309
+193
+198
+204
+160
+198
+199
+158
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+612
+520
+284
+345
+393
+192
+289
+310
+224
+290
+322
+253
+287
+274
+491
+351
+447
+420
+366
+910
+Step Limit Exceeded!
+425
+235
+328
+327
+442
+702
+509
+370
+380
+472
+937
+531
+Step Limit Exceeded!
+864
+753
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+826
+479
+194
+295
+434
+531
+995
+854
+855
+Step Limit Exceeded!
+487
+571
+308
+Step Limit Exceeded!
+269
+581
+456
+421
+413
+488
+882
+765
+477
+385
+396
+338
+281
+Step Limit Exceeded!
+Step Limit Exceeded!
+896
+435
+660
+302
+489
+392
+408
+439
+714
+860
+837
+705
+Step Limit Exceeded!
+836
+459
+222
+417
+476
+257
+355
+Step Limit Exceeded!
+Step Limit Exceeded!
+351
+846
+Step Limit Exceeded!
+460
+670
+330
+521
+415
+451
+Step Limit Exceeded!
+Step Limit Exceeded!
+785
+689
+Step Limit Exceeded!
+513
+Step Limit Exceeded!
+343
+608
+326
+619
+892
+843
+676
+277
+912
+514
+Step Limit Exceeded!
+747
+348
+443
+377
+Step Limit Exceeded!
+375
+422
+466
+385
+661
+302
+534
+Step Limit Exceeded!
+410
+755
+852
+432
+416
+215
+454
+919
+300
+Step Limit Exceeded!
+469
+366
+393
+646
+892
+612
+780
+721
+665
+546
+923
+571
+504
+Step Limit Exceeded!
+356
+Step Limit Exceeded!
+866
+236
+245
+337
+405
+466
+Step Limit Exceeded!
+557
+690
+836
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+806
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+732
+235
+220
+372
+Step Limit Exceeded!
+696
+833
+557
+601
+450
+462
+330
+249
+272
+242
+171
+265
+339
+199
+175
+180
+193
+164
+173
+161
+168
+155
+150
+246
+225
+199
+152
+241
+281
+221
+156
+157
+213
+147
+150
+147
+168
+153
+160
+164
+142
+124
+145
+146
+149
+146
+209
+149
+156
+148
+147
+148
+151
+144
+225
+188
+158
+149
+152
+159
+164
+619
+150
+162
+154
+156
+157
+237
+149
+155
+148
+152
+135
+137
+138
+140
+243
+145
+349
+142
+136
+147
+184
+606
+Step Limit Exceeded!
+504
+284
+237
+212
+237
+217
+225
+466
+228
+257
+189
+155
+212
+253
+169
+254
+149
+212
+227
+137
+194
+148
+142
+158
+154
+154
+160
+149
+140
+146
+142
+98
+145
+143
+148
+214
+146
+170
+147
+223
+145
+143
+141
+207
+143
+164
+137
+150
+141
+140
+149
+143
+139
+149
+153
+146
+151
+149
+155
+156
+152
+152
+149
+209
+157
+209
+143
+216
+207
+158
+150
+162
+200
+156
+150
+157
+152
+163
+177
+249
+176
+169
+161
+168
+151
+176
+192
+189
+186
+131
+167
+140
+163
+152
+153
+130
+151
+192
+Step Limit Exceeded!
+962
+529
+Step Limit Exceeded!
+Step Limit Exceeded!
+569
+215
+601
+485
+235
+400
+289
+206
+238
+235
+145
+253
+195
+246
+208
+216
+368
+219
+157
+199
+216
+149
+306
+274
+158
+157
+148
+151
+150
+163
+232
+160
+318
+457
+160
+233
+154
+148
+140
+148
+144
+148
+155
+148
+220
+152
+153
+268
+209
+209
+213
+205
+223
+213
+203
+200
+208
+230
+277
+470
+438
+295
+291
+234
+320
+208
+327
+489
+411
+263
+227
+169
+218
+158
+161
+201
+239
+175
+157
+163
+163
+230
+167
+160
+153
+268
+153
+148
+229
+158
+163
+162
+160
+156
+385
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+911
+Step Limit Exceeded!
+768
+385
+204
+205
+405
+194
+194
+200
+280
+204
+237
+232
+183
+173
+179
+241
+219
+242
+136
+138
+238
+141
+226
+236
+208
+173
+174
+162
+166
+203
+205
+171
+276
+262
+349
+309
+Step Limit Exceeded!
+303
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+357
+332
+309
+307
+370
+153
+150
+143
+149
+152
+143
+171
+165
+109
+154
+219
+161
+154
+156
+188
+212
+151
+293
+146
+150
+215
+148
+210
+Step Limit Exceeded!
+223
+505
+155
+156
+218
+215
+217
+216
+220
+292
+262
+269
+656
+274
+126
+119
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+914
+450
+295
+434
+703
+337
+446
+822
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+733
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+944
+460
+546
+474
+273
+304
+292
+496
+195
+622
+468
+222
+490
+316
+334
+236
+294
+223
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-hetm8zzl because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Program test finished with exit code 0 at: Tue May 11 07:21:54 EDT 2021
+
+scontrol show jobid 5289828
+JobId=5289828 JobName=MountainCarGymNumFeat_DQN_Agent_num
+   UserId=njqgame(3108162) GroupId=sutton(6000291) MCS_label=N/A
+   Priority=548119 Nice=0 Account=def-sutton QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:09:14 TimeLimit=02:59:00 TimeMin=N/A
+   SubmitTime=2021-05-11T07:11:36 EligibleTime=2021-05-11T07:11:36
+   AccrueTime=2021-05-11T07:11:36
+   StartTime=2021-05-11T07:12:40 EndTime=2021-05-11T07:21:54 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-05-11T07:12:39
+   Partition=compute AllocNode:Sid=nia-login06:92483
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia1881
+   BatchHost=nia1881
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,mem=175000M,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Submit_Jobs.SL
+   WorkDir=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+   StdErr=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5289828.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5289828.out
+   Power=
+   MailUser=njqgame@scinet.local MailType=NONE
+
+sacct -j 5289828
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+5289828      MountainC+ def-sutton   00:09:14                        00:00.410  00:00.573      0:0 
+5289828.bat+      batch def-sutton   00:09:14    467364K     24864K  00:00.410  00:00.572      0:0 
+5289828.ext+     extern def-sutton   00:09:14    138360K       880K   00:00:00   00:00:00      0:0 

@@ -22,10 +22,11 @@ environment=__ENVIRONMENT__
 task=__TASK__
 save_path=__SAVEPATH__
 
-source ~/RLENV/bin/activate
+
+source ~/DQNENV/bin/activate
 module load NiaEnv/2019b
 module load gnu-parallel
-module load python
+module load python/3.8.5
 
 cd $SLURM_SUBMIT_DIR || exit
 export OMP_NUM_THREADS=1

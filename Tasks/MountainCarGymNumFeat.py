@@ -24,7 +24,7 @@ class MountainCarGymNumFeat:
     #    return self.current_screen - self.last_screen
 
     def step(self, action):
-        self.env.render()
+        #self.env.render()
         state, reward, is_terminal, info = self.env.step(action.item())
         reward = torch.tensor([reward], device=self.device)
         return self.process_state(state), reward, is_terminal, info
