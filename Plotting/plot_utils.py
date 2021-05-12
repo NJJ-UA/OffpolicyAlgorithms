@@ -165,7 +165,7 @@ class MountainCarAttr:
     def __init__(self, exp_name):
         json_exp_params = load_sample_json_for_exp(exp_name)
         self.size_of_labels = 25
-        self.y_lim = [0.0, 5100]
+        self.y_lim = [0.0, 1100]
         self.x_lim = [0.0, json_exp_params['number_of_steps']]
         #self.y_axis_ticks = [1000, 2000, 3000, 4000, 5000]
         self.y_axis_ticks = [200, 400, 600, 800, 1000]

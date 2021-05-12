@@ -1,5 +1,5 @@
 {
-  "agent": "DQN_Agent_num",
+  "agent": "EDQNv1_Agent_num",
   "task": "MountainCarGymNumFeat",
   "environment": "MountainCar-v0",
   "number_of_runs": 10,

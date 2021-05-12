@@ -14,7 +14,7 @@ default_params = ImmutableDict(
         # 'task': 'LearnEightPoliciesTileCodingFeat',
         # 'environment': 'FourRoomGridWorld',
         # 'exp': 'FirstFourRoom',
-        'agent': 'DQN_Agent_num',
+        'agent': 'EDQNv1_Agent_num',
         'task': 'MountainCarGymNumFeat',
         'environment': 'MountainCar-v0',
         'exp': 'MountainCarGymNum',
@@ -23,7 +23,7 @@ default_params = ImmutableDict(
         'num_of_runs': 1,
         'num_steps': 100,
         'meta_parameters': {
-            'alpha': 0.0078125 ,
+            'alpha': 0.000009765625,
             'eta': 16.0,
             'beta': 0.9,
             'zeta': 0.1,
