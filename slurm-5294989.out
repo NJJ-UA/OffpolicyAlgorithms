@@ -1,0 +1,10061 @@
+The number of available cores is echo 
+Current working directory is /gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+Running on hostname nia1913.scinet.local
+Starting run at: Wed May 12 07:18:25 EDT 2021
+MountainCar-v0
+Step Limit Exceeded!
+Step Limit Exceeded!
+881
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+245
+263
+424
+208
+333
+444
+243
+199
+241
+253
+445
+263
+274
+263
+367
+267
+513
+263
+264
+262
+400
+422
+652
+227
+242
+237
+282
+308
+190
+188
+260
+176
+172
+336
+205
+223
+260
+267
+319
+213
+255
+344
+326
+243
+251
+235
+239
+237
+221
+159
+175
+160
+125
+183
+115
+124
+124
+151
+164
+155
+149
+147
+144
+179
+143
+142
+194
+144
+154
+150
+158
+145
+119
+176
+160
+152
+148
+150
+149
+265
+146
+981
+148
+151
+143
+145
+148
+139
+224
+142
+144
+233
+142
+700
+387
+419
+283
+601
+431
+Step Limit Exceeded!
+Step Limit Exceeded!
+205
+144
+149
+279
+147
+156
+157
+165
+151
+198
+156
+209
+151
+148
+151
+190
+215
+144
+141
+154
+151
+145
+148
+146
+140
+150
+197
+149
+141
+150
+142
+191
+152
+151
+144
+194
+162
+212
+138
+210
+152
+208
+143
+265
+197
+143
+207
+211
+145
+137
+192
+159
+147
+147
+152
+183
+153
+155
+162
+140
+321
+153
+147
+141
+144
+152
+141
+137
+141
+145
+148
+137
+143
+145
+188
+158
+157
+156
+159
+144
+149
+146
+150
+145
+144
+144
+157
+151
+155
+149
+212
+223
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+813
+446
+250
+467
+391
+340
+222
+346
+613
+342
+414
+514
+803
+188
+324
+208
+256
+204
+182
+260
+207
+166
+686
+293
+349
+259
+253
+354
+325
+648
+349
+211
+171
+266
+131
+133
+258
+169
+465
+254
+167
+152
+156
+158
+156
+152
+148
+152
+147
+147
+246
+150
+257
+160
+133
+150
+206
+294
+261
+247
+201
+184
+190
+345
+277
+364
+478
+Step Limit Exceeded!
+340
+576
+263
+869
+178
+Step Limit Exceeded!
+Step Limit Exceeded!
+689
+180
+439
+460
+424
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+501
+378
+280
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+814
+937
+425
+401
+189
+184
+166
+145
+217
+277
+320
+184
+267
+387
+507
+254
+253
+237
+221
+225
+227
+367
+253
+170
+226
+141
+236
+203
+223
+151
+163
+153
+154
+157
+163
+150
+155
+141
+123
+158
+149
+151
+250
+155
+233
+147
+212
+155
+297
+349
+172
+151
+175
+243
+150
+507
+154
+404
+456
+224
+218
+165
+133
+197
+165
+158
+165
+157
+278
+177
+148
+180
+137
+117
+114
+148
+138
+147
+139
+140
+132
+116
+122
+122
+124
+131
+121
+123
+209
+194
+171
+206
+168
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+687
+182
+142
+249
+388
+Step Limit Exceeded!
+590
+664
+393
+463
+240
+209
+409
+413
+454
+Step Limit Exceeded!
+429
+433
+Step Limit Exceeded!
+529
+431
+517
+412
+310
+714
+375
+581
+412
+375
+642
+387
+549
+629
+617
+264
+358
+488
+285
+Step Limit Exceeded!
+745
+646
+477
+Step Limit Exceeded!
+485
+658
+434
+Step Limit Exceeded!
+354
+299
+521
+488
+277
+Step Limit Exceeded!
+519
+438
+274
+455
+Step Limit Exceeded!
+886
+410
+371
+Step Limit Exceeded!
+Step Limit Exceeded!
+324
+235
+397
+665
+640
+420
+445
+576
+Step Limit Exceeded!
+633
+483
+475
+375
+Step Limit Exceeded!
+637
+342
+457
+411
+466
+Step Limit Exceeded!
+326
+525
+473
+Step Limit Exceeded!
+960
+462
+602
+944
+Step Limit Exceeded!
+286
+595
+909
+Step Limit Exceeded!
+Step Limit Exceeded!
+355
+462
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+218
+603
+246
+250
+159
+167
+289
+163
+153
+298
+207
+202
+199
+214
+259
+229
+216
+195
+186
+194
+202
+179
+278
+118
+205
+245
+185
+216
+176
+188
+163
+124
+200
+172
+195
+170
+208
+178
+263
+138
+179
+148
+162
+241
+144
+145
+140
+213
+144
+161
+206
+191
+193
+205
+140
+135
+245
+142
+141
+141
+179
+141
+145
+139
+147
+147
+134
+176
+200
+217
+228
+138
+245
+141
+226
+172
+150
+140
+207
+145
+185
+144
+139
+146
+199
+197
+155
+215
+217
+221
+147
+142
+708
+255
+326
+181
+556
+Step Limit Exceeded!
+Step Limit Exceeded!
+538
+Step Limit Exceeded!
+796
+264
+399
+433
+410
+157
+157
+Step Limit Exceeded!
+330
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+566
+341
+238
+162
+167
+291
+207
+213
+217
+245
+276
+158
+207
+284
+215
+122
+138
+168
+189
+210
+205
+193
+198
+221
+216
+197
+138
+132
+126
+125
+231
+172
+143
+176
+155
+156
+261
+157
+143
+167
+119
+162
+144
+159
+120
+145
+147
+213
+110
+142
+109
+180
+187
+159
+141
+143
+143
+148
+154
+144
+150
+143
+150
+153
+166
+145
+146
+185
+150
+176
+148
+201
+161
+Step Limit Exceeded!
+893
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+583
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+657
+487
+699
+596
+483
+204
+507
+430
+197
+362
+283
+288
+214
+206
+203
+282
+218
+213
+201
+199
+210
+196
+283
+208
+201
+196
+157
+197
+199
+163
+191
+157
+188
+152
+166
+190
+176
+193
+187
+200
+302
+273
+190
+259
+190
+283
+211
+210
+196
+203
+188
+162
+268
+282
+258
+194
+358
+364
+386
+278
+472
+550
+494
+807
+306
+Step Limit Exceeded!
+426
+609
+230
+386
+152
+144
+144
+143
+215
+152
+142
+151
+181
+673
+807
+900
+552
+Step Limit Exceeded!
+867
+400
+225
+497
+606
+487
+265
+597
+463
+395
+184
+217
+277
+172
+223
+195
+227
+300
+548
+221
+318
+157
+157
+272
+153
+160
+724
+151
+225
+152
+145
+145
+147
+392
+206
+143
+152
+144
+220
+149
+157
+155
+157
+173
+160
+158
+230
+150
+306
+282
+229
+376
+153
+147
+157
+145
+159
+136
+136
+152
+205
+126
+171
+175
+193
+116
+120
+124
+118
+109
+119
+114
+121
+126
+123
+126
+163
+125
+205
+137
+155
+123
+125
+123
+138
+119
+199
+184
+158
+211
+185
+165
+165
+123
+190
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+976
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+449
+466
+512
+246
+388
+273
+333
+184
+203
+359
+583
+343
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+786
+165
+345
+372
+195
+605
+307
+257
+512
+827
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+990
+325
+Step Limit Exceeded!
+557
+374
+Step Limit Exceeded!
+Step Limit Exceeded!
+991
+309
+269
+445
+367
+296
+758
+511
+322
+787
+237
+338
+827
+309
+476
+392
+385
+234
+291
+413
+440
+708
+485
+326
+206
+586
+304
+304
+210
+165
+206
+208
+204
+171
+161
+245
+182
+195
+193
+199
+225
+210
+170
+157
+198
+198
+252
+286
+195
+167
+243
+313
+201
+216
+281
+261
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-418pz2ds because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+MountainCar-v0
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+687
+392
+289
+345
+320
+214
+Step Limit Exceeded!
+853
+Step Limit Exceeded!
+Step Limit Exceeded!
+202
+178
+192
+174
+165
+169
+99
+159
+107
+160
+163
+156
+191
+116
+141
+137
+141
+162
+121
+178
+121
+117
+127
+120
+198
+118
+187
+209
+176
+188
+109
+107
+172
+114
+111
+176
+110
+114
+190
+208
+113
+122
+211
+159
+135
+140
+166
+131
+177
+134
+175
+158
+139
+148
+138
+138
+219
+163
+207
+138
+235
+141
+170
+196
+228
+193
+163
+167
+134
+241
+156
+166
+165
+158
+200
+239
+151
+239
+264
+Step Limit Exceeded!
+Step Limit Exceeded!
+874
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+996
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+544
+208
+512
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+596
+335
+442
+797
+315
+443
+287
+128
+280
+280
+323
+674
+858
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+373
+144
+155
+164
+151
+165
+182
+195
+182
+316
+195
+177
+147
+180
+208
+130
+394
+126
+261
+186
+184
+202
+187
+350
+176
+180
+240
+Step Limit Exceeded!
+Step Limit Exceeded!
+589
+202
+290
+430
+Step Limit Exceeded!
+Step Limit Exceeded!
+827
+152
+210
+264
+337
+207
+194
+199
+261
+365
+712
+460
+Step Limit Exceeded!
+992
+299
+247
+171
+232
+246
+164
+229
+269
+225
+195
+207
+311
+256
+237
+161
+166
+199
+196
+211
+570
+149
+195
+160
+302
+321
+225
+245
+224
+336
+343
+220
+147
+151
+152
+151
+146
+156
+149
+149
+156
+222
+149
+140
+154
+153
+149
+154
+155
+215
+151
+147
+147
+143
+144
+145
+152
+208
+156
+150
+152
+291
+358
+358
+151
+153
+215
+810
+151
+157
+155
+154
+164
+294
+276
+150
+147
+202
+163
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+588
+761
+566
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+875
+754
+589
+137
+432
+486
+191
+404
+763
+Step Limit Exceeded!
+943
+596
+Step Limit Exceeded!
+938
+711
+324
+562
+901
+655
+Step Limit Exceeded!
+590
+349
+467
+Step Limit Exceeded!
+699
+333
+335
+330
+941
+305
+260
+647
+312
+350
+590
+355
+225
+825
+706
+432
+303
+371
+315
+512
+334
+267
+269
+169
+307
+261
+308
+311
+208
+297
+211
+219
+201
+249
+296
+305
+210
+207
+202
+193
+208
+168
+204
+206
+206
+162
+157
+205
+163
+164
+192
+161
+160
+203
+278
+271
+188
+198
+195
+185
+271
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+665
+489
+334
+231
+182
+311
+530
+260
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+938
+209
+205
+285
+Step Limit Exceeded!
+879
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+476
+218
+273
+165
+115
+172
+181
+294
+222
+132
+213
+223
+181
+205
+160
+164
+180
+205
+216
+408
+383
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+622
+346
+528
+422
+341
+198
+279
+194
+271
+191
+258
+423
+709
+213
+683
+Step Limit Exceeded!
+Step Limit Exceeded!
+220
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+614
+233
+905
+321
+312
+255
+194
+199
+177
+207
+191
+Step Limit Exceeded!
+Step Limit Exceeded!
+495
+Step Limit Exceeded!
+950
+473
+892
+644
+545
+Step Limit Exceeded!
+669
+479
+288
+208
+154
+182
+242
+194
+158
+382
+191
+143
+180
+211
+193
+202
+180
+188
+180
+186
+190
+147
+168
+178
+175
+143
+179
+194
+185
+181
+188
+140
+251
+184
+141
+186
+202
+184
+140
+178
+175
+194
+138
+196
+141
+140
+160
+143
+142
+145
+116
+140
+155
+143
+143
+144
+259
+147
+142
+139
+248
+214
+226
+142
+230
+250
+145
+290
+219
+215
+202
+197
+212
+218
+148
+145
+221
+199
+210
+Step Limit Exceeded!
+147
+139
+141
+258
+149
+137
+296
+142
+199
+205
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+501
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+981
+970
+846
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+725
+279
+166
+268
+400
+398
+502
+Step Limit Exceeded!
+Step Limit Exceeded!
+866
+539
+319
+Step Limit Exceeded!
+364
+252
+269
+610
+264
+210
+206
+195
+406
+358
+451
+204
+562
+227
+787
+227
+317
+332
+236
+172
+316
+295
+225
+226
+167
+238
+161
+168
+162
+162
+162
+244
+299
+233
+159
+224
+212
+222
+161
+154
+206
+146
+144
+143
+147
+146
+146
+138
+146
+145
+139
+220
+140
+213
+226
+145
+215
+146
+204
+147
+217
+225
+151
+152
+150
+671
+306
+255
+972
+289
+Step Limit Exceeded!
+775
+446
+483
+517
+285
+256
+258
+303
+184
+261
+245
+165
+196
+305
+127
+186
+153
+149
+111
+115
+155
+141
+113
+178
+137
+176
+169
+176
+115
+197
+176
+146
+189
+119
+197
+118
+208
+216
+201
+139
+114
+176
+172
+139
+135
+142
+151
+142
+136
+145
+140
+137
+136
+190
+162
+140
+147
+212
+185
+199
+205
+198
+249
+201
+252
+324
+313
+259
+245
+294
+243
+376
+421
+Step Limit Exceeded!
+244
+255
+238
+195
+244
+242
+276
+511
+139
+260
+292
+238
+352
+254
+220
+141
+199
+146
+144
+252
+193
+259
+423
+Step Limit Exceeded!
+196
+Step Limit Exceeded!
+657
+625
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+587
+260
+340
+155
+566
+335
+267
+Step Limit Exceeded!
+408
+887
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+511
+93
+326
+165
+150
+165
+143
+159
+161
+141
+110
+147
+143
+170
+143
+158
+112
+185
+144
+188
+224
+180
+177
+145
+137
+177
+139
+182
+141
+142
+143
+146
+145
+144
+190
+140
+142
+160
+190
+173
+168
+165
+150
+203
+152
+286
+241
+148
+148
+203
+150
+230
+164
+145
+146
+173
+199
+174
+199
+207
+227
+222
+196
+153
+233
+155
+199
+193
+151
+146
+251
+251
+313
+178
+211
+276
+154
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+670
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+548
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+854
+Step Limit Exceeded!
+826
+533
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+851
+184
+397
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-59qvc1mo because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+MountainCar-v0
+552
+Step Limit Exceeded!
+598
+295
+314
+488
+789
+305
+221
+322
+196
+158
+386
+143
+262
+177
+233
+255
+290
+214
+223
+165
+215
+162
+197
+151
+211
+183
+209
+140
+308
+148
+213
+144
+277
+153
+220
+224
+243
+153
+178
+153
+147
+155
+153
+257
+239
+228
+204
+149
+153
+167
+149
+355
+158
+162
+124
+150
+159
+146
+139
+123
+108
+147
+115
+152
+112
+177
+118
+113
+143
+147
+156
+195
+142
+152
+107
+172
+110
+113
+108
+145
+126
+168
+110
+105
+156
+118
+152
+156
+142
+191
+118
+149
+119
+121
+206
+234
+219
+156
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+849
+Step Limit Exceeded!
+987
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+856
+924
+488
+642
+502
+435
+360
+298
+730
+Step Limit Exceeded!
+904
+216
+240
+228
+272
+174
+166
+220
+164
+242
+167
+112
+163
+310
+150
+156
+147
+210
+240
+148
+190
+146
+155
+133
+152
+146
+154
+158
+229
+147
+229
+157
+150
+239
+258
+224
+212
+274
+208
+252
+214
+268
+210
+252
+391
+385
+383
+284
+160
+149
+218
+145
+153
+208
+281
+153
+229
+157
+181
+154
+197
+206
+287
+158
+187
+164
+148
+283
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+422
+367
+351
+240
+400
+236
+349
+439
+366
+629
+304
+341
+621
+292
+236
+271
+373
+Step Limit Exceeded!
+392
+369
+346
+206
+307
+274
+233
+260
+190
+205
+169
+154
+253
+241
+229
+328
+233
+179
+199
+235
+184
+167
+181
+163
+184
+295
+276
+983
+511
+271
+249
+384
+Step Limit Exceeded!
+Step Limit Exceeded!
+332
+329
+Step Limit Exceeded!
+Step Limit Exceeded!
+400
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+708
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+574
+280
+761
+739
+270
+283
+294
+303
+305
+230
+245
+177
+225
+286
+302
+173
+328
+242
+168
+158
+196
+196
+234
+189
+194
+192
+205
+167
+223
+230
+309
+219
+142
+141
+235
+145
+144
+152
+169
+240
+305
+413
+354
+214
+300
+283
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+310
+Step Limit Exceeded!
+939
+158
+224
+155
+244
+150
+154
+145
+231
+159
+377
+146
+143
+146
+142
+157
+144
+159
+138
+137
+140
+224
+153
+178
+240
+218
+285
+227
+221
+149
+212
+227
+Step Limit Exceeded!
+Step Limit Exceeded!
+707
+Step Limit Exceeded!
+Step Limit Exceeded!
+767
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+496
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+981
+261
+Step Limit Exceeded!
+886
+331
+614
+386
+448
+325
+193
+168
+167
+277
+312
+246
+255
+274
+244
+219
+200
+226
+238
+207
+269
+167
+186
+175
+290
+289
+216
+226
+225
+268
+171
+174
+158
+181
+230
+173
+173
+176
+153
+252
+300
+221
+364
+226
+421
+462
+354
+642
+287
+706
+216
+322
+338
+241
+233
+230
+265
+195
+299
+247
+225
+218
+137
+162
+204
+206
+174
+130
+161
+158
+118
+153
+161
+164
+201
+171
+147
+151
+156
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+536
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+663
+Step Limit Exceeded!
+954
+Step Limit Exceeded!
+767
+680
+426
+484
+559
+583
+328
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+343
+952
+915
+Step Limit Exceeded!
+692
+Step Limit Exceeded!
+876
+688
+343
+982
+479
+807
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+456
+658
+468
+944
+678
+222
+334
+Step Limit Exceeded!
+347
+798
+634
+785
+Step Limit Exceeded!
+557
+561
+Step Limit Exceeded!
+Step Limit Exceeded!
+344
+Step Limit Exceeded!
+592
+320
+Step Limit Exceeded!
+212
+447
+Step Limit Exceeded!
+941
+793
+385
+381
+177
+574
+506
+309
+565
+479
+368
+262
+200
+206
+157
+197
+183
+162
+235
+213
+154
+231
+291
+160
+213
+160
+154
+164
+142
+163
+423
+172
+168
+166
+166
+155
+156
+151
+150
+158
+149
+143
+139
+202
+146
+141
+146
+146
+152
+144
+152
+89
+140
+150
+217
+163
+164
+155
+155
+154
+142
+150
+157
+170
+152
+157
+146
+154
+147
+149
+149
+149
+144
+174
+148
+169
+145
+184
+192
+257
+187
+179
+192
+260
+272
+419
+631
+173
+272
+193
+193
+305
+166
+412
+Step Limit Exceeded!
+Step Limit Exceeded!
+856
+776
+738
+563
+273
+Step Limit Exceeded!
+405
+396
+241
+304
+567
+188
+246
+339
+253
+194
+157
+183
+215
+195
+201
+136
+182
+171
+195
+131
+138
+213
+198
+202
+141
+151
+151
+297
+240
+453
+157
+154
+163
+143
+148
+150
+291
+152
+265
+320
+146
+237
+284
+268
+204
+264
+220
+160
+203
+154
+156
+153
+152
+151
+154
+149
+152
+143
+153
+146
+144
+146
+154
+150
+155
+146
+175
+195
+188
+195
+190
+193
+201
+183
+254
+241
+155
+169
+139
+127
+120
+122
+127
+137
+207
+122
+123
+154
+124
+161
+167
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+836
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+452
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+803
+351
+390
+300
+389
+609
+229
+305
+604
+Step Limit Exceeded!
+558
+Step Limit Exceeded!
+699
+949
+583
+441
+339
+201
+253
+253
+261
+179
+207
+258
+181
+243
+215
+197
+205
+168
+249
+174
+263
+187
+312
+249
+321
+642
+532
+Step Limit Exceeded!
+228
+Step Limit Exceeded!
+338
+234
+340
+309
+151
+195
+242
+207
+289
+270
+223
+304
+Step Limit Exceeded!
+565
+244
+290
+170
+161
+225
+150
+292
+146
+165
+Step Limit Exceeded!
+164
+220
+151
+152
+166
+144
+146
+146
+418
+183
+151
+192
+176
+226
+219
+215
+184
+255
+310
+219
+272
+304
+294
+270
+283
+275
+368
+327
+350
+454
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+737
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+787
+277
+804
+445
+263
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-izoo6e07 because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+MountainCar-v0
+Step Limit Exceeded!
+656
+Step Limit Exceeded!
+786
+391
+399
+253
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+227
+173
+135
+149
+273
+199
+139
+236
+197
+622
+185
+189
+198
+213
+186
+192
+222
+427
+186
+320
+Step Limit Exceeded!
+Step Limit Exceeded!
+953
+257
+173
+171
+266
+257
+311
+187
+272
+367
+263
+240
+256
+279
+250
+345
+254
+238
+320
+Step Limit Exceeded!
+246
+282
+282
+243
+274
+291
+387
+243
+291
+360
+393
+247
+274
+211
+157
+195
+198
+191
+372
+301
+299
+219
+230
+226
+323
+218
+214
+149
+170
+163
+143
+144
+127
+176
+140
+254
+214
+214
+159
+187
+162
+182
+156
+198
+167
+161
+161
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+688
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+606
+Step Limit Exceeded!
+629
+964
+474
+673
+361
+203
+226
+322
+228
+221
+303
+296
+329
+533
+455
+248
+233
+198
+261
+247
+250
+211
+196
+309
+204
+308
+216
+376
+430
+210
+211
+342
+273
+289
+241
+242
+287
+234
+196
+192
+199
+199
+207
+171
+196
+167
+203
+208
+196
+203
+192
+199
+230
+165
+297
+194
+277
+192
+196
+183
+188
+190
+268
+244
+195
+237
+268
+195
+203
+200
+198
+504
+190
+195
+185
+187
+264
+261
+232
+177
+307
+230
+179
+172
+174
+220
+269
+270
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+577
+294
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+766
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+184
+299
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+717
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+833
+646
+774
+600
+Step Limit Exceeded!
+665
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+647
+Step Limit Exceeded!
+360
+199
+214
+331
+247
+195
+336
+304
+213
+231
+271
+200
+517
+266
+222
+279
+245
+193
+196
+202
+191
+288
+267
+197
+280
+321
+233
+490
+382
+298
+265
+530
+311
+238
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+865
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+521
+857
+197
+200
+295
+211
+179
+233
+385
+296
+524
+202
+349
+247
+190
+338
+153
+232
+554
+307
+309
+209
+258
+263
+220
+573
+493
+829
+658
+364
+269
+171
+644
+748
+682
+295
+181
+161
+Step Limit Exceeded!
+164
+331
+212
+155
+209
+206
+269
+186
+825
+200
+205
+199
+214
+171
+229
+169
+155
+250
+256
+259
+295
+238
+249
+246
+157
+194
+158
+165
+193
+163
+162
+168
+166
+173
+168
+170
+168
+157
+167
+157
+154
+163
+241
+245
+169
+153
+224
+161
+165
+156
+160
+157
+153
+152
+Step Limit Exceeded!
+Step Limit Exceeded!
+792
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+963
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+492
+612
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+802
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+593
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+376
+Step Limit Exceeded!
+260
+159
+161
+430
+347
+334
+408
+263
+553
+567
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+927
+Step Limit Exceeded!
+254
+281
+244
+223
+186
+218
+269
+739
+664
+272
+523
+519
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+677
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+576
+201
+272
+238
+680
+541
+804
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+585
+287
+596
+460
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+291
+169
+240
+185
+163
+174
+260
+448
+269
+296
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+214
+434
+275
+193
+216
+226
+236
+211
+193
+194
+205
+199
+208
+256
+198
+206
+202
+202
+197
+203
+198
+202
+193
+195
+194
+154
+213
+151
+198
+162
+161
+158
+158
+170
+160
+172
+159
+176
+181
+160
+159
+159
+167
+160
+191
+167
+163
+149
+201
+199
+199
+158
+161
+156
+151
+245
+152
+183
+147
+151
+185
+151
+148
+248
+251
+193
+155
+185
+162
+241
+182
+212
+260
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+976
+Step Limit Exceeded!
+601
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+345
+283
+211
+189
+294
+253
+208
+195
+194
+209
+486
+294
+376
+340
+184
+289
+197
+484
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+499
+344
+546
+912
+857
+763
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+972
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+837
+Step Limit Exceeded!
+802
+178
+663
+297
+288
+612
+317
+Step Limit Exceeded!
+325
+641
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+727
+135
+Step Limit Exceeded!
+400
+694
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+567
+247
+308
+211
+216
+212
+213
+299
+379
+279
+222
+332
+306
+327
+574
+264
+413
+407
+336
+Step Limit Exceeded!
+427
+337
+183
+257
+354
+435
+Step Limit Exceeded!
+344
+166
+164
+457
+Step Limit Exceeded!
+894
+286
+632
+Step Limit Exceeded!
+219
+207
+859
+242
+276
+236
+307
+228
+159
+254
+311
+422
+334
+179
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+799
+368
+Step Limit Exceeded!
+Step Limit Exceeded!
+335
+399
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+694
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+376
+238
+455
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+602
+Step Limit Exceeded!
+Step Limit Exceeded!
+823
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+644
+439
+308
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+995
+149
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+872
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+632
+491
+422
+576
+949
+771
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+719
+282
+127
+361
+265
+158
+700
+588
+Step Limit Exceeded!
+Step Limit Exceeded!
+861
+665
+Step Limit Exceeded!
+255
+192
+321
+196
+301
+145
+156
+129
+119
+156
+211
+122
+162
+204
+276
+526
+262
+262
+345
+525
+852
+846
+794
+190
+177
+149
+646
+175
+161
+166
+162
+163
+156
+225
+161
+151
+179
+164
+154
+153
+186
+123
+118
+247
+195
+188
+179
+277
+183
+186
+191
+271
+230
+214
+300
+221
+222
+184
+183
+253
+197
+207
+178
+137
+178
+145
+151
+145
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-7k8pcpk3 because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+MountainCar-v0
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+648
+498
+461
+Step Limit Exceeded!
+354
+482
+381
+217
+225
+293
+362
+431
+186
+222
+164
+148
+203
+164
+188
+156
+168
+157
+159
+285
+152
+244
+223
+151
+149
+153
+216
+395
+152
+149
+149
+149
+143
+143
+144
+144
+144
+144
+140
+143
+144
+144
+456
+150
+150
+193
+142
+165
+207
+219
+211
+217
+187
+162
+146
+239
+293
+Step Limit Exceeded!
+595
+324
+159
+183
+209
+265
+157
+125
+224
+186
+117
+152
+114
+164
+157
+159
+156
+156
+176
+143
+157
+196
+209
+145
+168
+168
+182
+171
+117
+202
+170
+125
+183
+331
+Step Limit Exceeded!
+973
+Step Limit Exceeded!
+483
+313
+Step Limit Exceeded!
+444
+312
+328
+304
+226
+317
+383
+320
+219
+170
+192
+114
+187
+257
+157
+155
+143
+258
+153
+147
+221
+147
+137
+211
+200
+146
+205
+155
+169
+253
+199
+155
+161
+231
+763
+161
+205
+187
+142
+186
+205
+200
+289
+200
+215
+182
+150
+183
+188
+168
+170
+118
+150
+188
+144
+174
+264
+223
+190
+222
+199
+287
+210
+216
+228
+118
+185
+195
+153
+164
+147
+125
+160
+123
+115
+146
+115
+184
+121
+118
+121
+110
+211
+178
+167
+168
+145
+151
+152
+281
+155
+141
+150
+Step Limit Exceeded!
+383
+359
+803
+756
+747
+673
+246
+472
+232
+303
+204
+330
+373
+279
+443
+200
+351
+330
+344
+348
+181
+263
+152
+156
+229
+351
+195
+100
+167
+173
+158
+166
+151
+149
+125
+155
+151
+163
+184
+153
+149
+149
+185
+163
+148
+213
+186
+150
+141
+208
+145
+208
+152
+211
+151
+158
+179
+177
+186
+126
+186
+185
+209
+230
+140
+169
+184
+221
+182
+383
+206
+154
+172
+152
+122
+188
+155
+150
+183
+150
+156
+121
+148
+151
+159
+161
+173
+139
+160
+149
+162
+149
+149
+148
+204
+150
+155
+152
+146
+Step Limit Exceeded!
+Step Limit Exceeded!
+363
+Step Limit Exceeded!
+Step Limit Exceeded!
+505
+414
+809
+284
+295
+367
+527
+305
+174
+231
+312
+161
+237
+303
+154
+163
+276
+150
+230
+152
+226
+286
+142
+145
+160
+147
+164
+159
+157
+160
+159
+161
+342
+153
+157
+154
+149
+222
+150
+152
+151
+145
+150
+147
+146
+144
+147
+148
+142
+131
+151
+157
+185
+190
+195
+242
+156
+194
+190
+340
+188
+519
+202
+213
+209
+205
+502
+297
+477
+255
+212
+178
+201
+127
+151
+144
+164
+151
+149
+150
+156
+150
+92
+153
+154
+109
+159
+149
+166
+214
+148
+158
+154
+144
+156
+Step Limit Exceeded!
+371
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+819
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+687
+463
+235
+314
+238
+265
+162
+190
+171
+149
+151
+222
+154
+190
+219
+149
+148
+159
+140
+144
+143
+171
+142
+141
+154
+144
+143
+147
+160
+135
+136
+161
+137
+198
+165
+152
+152
+443
+149
+151
+155
+155
+146
+146
+237
+163
+158
+151
+149
+157
+147
+124
+214
+179
+209
+256
+113
+155
+110
+119
+208
+147
+113
+141
+145
+159
+185
+214
+207
+143
+314
+218
+290
+364
+245
+214
+189
+146
+161
+196
+147
+145
+143
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+797
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+742
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+980
+309
+422
+641
+537
+242
+310
+173
+255
+252
+160
+201
+198
+228
+322
+349
+225
+279
+206
+232
+232
+269
+228
+225
+150
+149
+153
+165
+181
+177
+161
+162
+160
+157
+169
+162
+405
+246
+149
+159
+121
+157
+156
+151
+148
+145
+147
+145
+149
+148
+151
+170
+141
+152
+147
+155
+150
+162
+207
+193
+149
+190
+152
+185
+168
+180
+174
+276
+185
+189
+279
+262
+409
+Step Limit Exceeded!
+337
+193
+288
+204
+441
+190
+151
+190
+170
+187
+220
+207
+531
+522
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+413
+366
+300
+300
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+917
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+978
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+961
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+469
+Step Limit Exceeded!
+Step Limit Exceeded!
+996
+688
+874
+337
+579
+428
+242
+374
+159
+589
+153
+494
+384
+220
+145
+217
+210
+276
+150
+148
+236
+164
+306
+330
+153
+222
+163
+239
+158
+150
+155
+151
+143
+150
+164
+151
+145
+221
+211
+177
+181
+165
+150
+260
+212
+210
+141
+172
+179
+137
+234
+199
+152
+157
+117
+154
+166
+161
+209
+145
+151
+146
+198
+152
+143
+145
+144
+146
+151
+147
+138
+148
+214
+118
+208
+193
+192
+216
+133
+183
+121
+124
+163
+181
+154
+206
+133
+153
+170
+140
+209
+145
+180
+188
+164
+161
+146
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+637
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+766
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+488
+469
+470
+202
+648
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+991
+509
+Step Limit Exceeded!
+596
+395
+Step Limit Exceeded!
+602
+769
+762
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-wnp9nefv because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+MountainCar-v0
+932
+Step Limit Exceeded!
+Step Limit Exceeded!
+452
+395
+Step Limit Exceeded!
+996
+Step Limit Exceeded!
+Step Limit Exceeded!
+498
+290
+340
+317
+279
+239
+201
+252
+204
+291
+222
+202
+179
+327
+179
+174
+360
+167
+166
+245
+152
+154
+153
+149
+148
+146
+216
+217
+223
+281
+368
+208
+175
+215
+159
+188
+159
+200
+155
+149
+168
+202
+192
+151
+160
+162
+122
+150
+152
+148
+119
+166
+132
+118
+129
+149
+152
+148
+149
+138
+156
+238
+199
+137
+226
+144
+310
+417
+158
+229
+152
+142
+144
+243
+201
+160
+241
+179
+243
+301
+210
+138
+216
+174
+129
+126
+133
+211
+Step Limit Exceeded!
+320
+281
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+604
+495
+642
+747
+744
+551
+301
+507
+525
+315
+231
+252
+264
+263
+176
+255
+161
+183
+192
+150
+178
+158
+149
+148
+152
+104
+146
+147
+142
+150
+145
+228
+155
+386
+146
+163
+168
+237
+160
+153
+351
+142
+314
+146
+154
+165
+153
+189
+193
+205
+279
+197
+218
+146
+193
+436
+578
+600
+432
+353
+299
+228
+161
+228
+215
+167
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+893
+872
+Step Limit Exceeded!
+447
+963
+Step Limit Exceeded!
+898
+Step Limit Exceeded!
+964
+Step Limit Exceeded!
+511
+388
+546
+558
+Step Limit Exceeded!
+382
+572
+803
+328
+Step Limit Exceeded!
+714
+808
+755
+450
+735
+533
+434
+696
+497
+495
+401
+505
+767
+707
+546
+499
+451
+458
+456
+769
+Step Limit Exceeded!
+Step Limit Exceeded!
+929
+302
+407
+434
+359
+663
+346
+192
+229
+145
+178
+168
+158
+240
+205
+180
+132
+274
+179
+235
+163
+177
+115
+250
+224
+227
+248
+247
+215
+261
+230
+284
+338
+471
+198
+284
+173
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+898
+705
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+814
+480
+731
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+340
+202
+305
+329
+310
+411
+189
+279
+168
+250
+334
+290
+866
+297
+219
+590
+832
+292
+266
+174
+177
+179
+189
+177
+158
+156
+200
+196
+160
+163
+189
+309
+905
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+729
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+731
+719
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+657
+583
+332
+333
+323
+370
+366
+741
+293
+216
+282
+363
+239
+354
+488
+333
+318
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+692
+Step Limit Exceeded!
+789
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+661
+844
+242
+577
+362
+260
+319
+164
+403
+194
+585
+479
+445
+479
+405
+766
+412
+170
+316
+321
+276
+651
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+765
+Step Limit Exceeded!
+343
+358
+190
+195
+148
+180
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+581
+190
+324
+798
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+679
+914
+Step Limit Exceeded!
+493
+577
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+828
+690
+668
+383
+910
+Step Limit Exceeded!
+973
+691
+766
+893
+475
+335
+520
+274
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+485
+788
+869
+290
+231
+150
+293
+254
+147
+156
+223
+183
+179
+178
+484
+624
+246
+Step Limit Exceeded!
+485
+351
+249
+324
+258
+249
+220
+222
+168
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+624
+Step Limit Exceeded!
+812
+624
+522
+199
+411
+389
+394
+219
+179
+225
+198
+208
+298
+214
+191
+496
+230
+240
+242
+169
+149
+327
+332
+206
+217
+231
+150
+160
+225
+149
+265
+140
+177
+142
+223
+155
+219
+276
+225
+276
+257
+508
+279
+206
+188
+181
+123
+150
+257
+216
+140
+236
+225
+167
+241
+161
+140
+266
+253
+178
+180
+212
+233
+189
+139
+123
+145
+219
+126
+139
+137
+121
+160
+186
+155
+151
+141
+187
+183
+160
+128
+155
+115
+157
+149
+150
+152
+152
+195
+152
+152
+156
+140
+152
+153
+227
+182
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+995
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-z_e7hj2x because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+MountainCar-v0
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+601
+890
+838
+815
+481
+329
+584
+408
+599
+601
+571
+Step Limit Exceeded!
+526
+744
+542
+731
+Step Limit Exceeded!
+Step Limit Exceeded!
+473
+Step Limit Exceeded!
+Step Limit Exceeded!
+333
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+929
+253
+253
+490
+251
+313
+299
+300
+854
+Step Limit Exceeded!
+306
+215
+381
+221
+225
+262
+899
+215
+262
+232
+148
+226
+134
+348
+329
+157
+163
+221
+234
+284
+337
+685
+240
+337
+765
+421
+Step Limit Exceeded!
+523
+284
+663
+226
+232
+228
+184
+266
+265
+490
+540
+261
+271
+652
+786
+244
+199
+212
+198
+256
+Step Limit Exceeded!
+Step Limit Exceeded!
+200
+211
+181
+233
+902
+474
+202
+785
+236
+990
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+774
+Step Limit Exceeded!
+417
+822
+753
+536
+749
+474
+478
+419
+443
+533
+847
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+597
+301
+288
+481
+200
+440
+194
+212
+173
+296
+291
+817
+Step Limit Exceeded!
+Step Limit Exceeded!
+669
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+727
+352
+373
+776
+854
+668
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+234
+318
+189
+384
+573
+197
+206
+284
+Step Limit Exceeded!
+288
+568
+604
+Step Limit Exceeded!
+705
+Step Limit Exceeded!
+Step Limit Exceeded!
+489
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+781
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+638
+294
+299
+212
+115
+187
+300
+363
+646
+136
+131
+Step Limit Exceeded!
+310
+534
+852
+748
+588
+892
+Step Limit Exceeded!
+497
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+445
+426
+633
+Step Limit Exceeded!
+462
+401
+298
+283
+328
+296
+368
+363
+748
+268
+572
+552
+513
+Step Limit Exceeded!
+514
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+657
+169
+238
+153
+202
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+884
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+286
+307
+Step Limit Exceeded!
+639
+1000
+Step Limit Exceeded!
+759
+366
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+269
+743
+502
+495
+630
+Step Limit Exceeded!
+799
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+615
+355
+297
+198
+182
+221
+179
+235
+277
+194
+285
+433
+715
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+503
+488
+Step Limit Exceeded!
+987
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+475
+500
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+980
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+607
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+532
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+882
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+955
+442
+806
+738
+743
+Step Limit Exceeded!
+957
+485
+732
+672
+476
+407
+783
+785
+299
+378
+450
+427
+602
+312
+280
+920
+278
+588
+304
+291
+304
+408
+335
+205
+436
+421
+336
+210
+939
+207
+316
+334
+225
+295
+770
+249
+309
+303
+207
+566
+Step Limit Exceeded!
+217
+256
+259
+214
+213
+530
+453
+386
+214
+269
+201
+325
+204
+206
+208
+253
+204
+539
+256
+360
+397
+243
+196
+270
+199
+202
+244
+202
+222
+242
+235
+Step Limit Exceeded!
+899
+788
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+895
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+204
+249
+238
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+943
+868
+337
+362
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+888
+500
+593
+750
+447
+320
+273
+573
+Step Limit Exceeded!
+237
+308
+256
+372
+547
+Step Limit Exceeded!
+462
+741
+975
+964
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+914
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+493
+549
+658
+Step Limit Exceeded!
+388
+674
+372
+Step Limit Exceeded!
+659
+716
+260
+420
+245
+232
+650
+439
+558
+334
+Step Limit Exceeded!
+405
+890
+500
+418
+675
+338
+Step Limit Exceeded!
+Step Limit Exceeded!
+773
+Step Limit Exceeded!
+574
+910
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+551
+Step Limit Exceeded!
+565
+Step Limit Exceeded!
+697
+867
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+555
+330
+242
+147
+194
+206
+795
+817
+Step Limit Exceeded!
+538
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+511
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+577
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+751
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+622
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+687
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+769
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+727
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+735
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+560
+382
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+727
+207
+Step Limit Exceeded!
+241
+313
+189
+Step Limit Exceeded!
+Step Limit Exceeded!
+424
+306
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+452
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+586
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+871
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+756
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+840
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+373
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+611
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+271
+184
+393
+Step Limit Exceeded!
+585
+242
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+746
+813
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+680
+907
+Step Limit Exceeded!
+588
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+972
+796
+448
+965
+Step Limit Exceeded!
+767
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-3wwc8wki because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+MountainCar-v0
+258
+Step Limit Exceeded!
+516
+Step Limit Exceeded!
+730
+959
+620
+Step Limit Exceeded!
+748
+Step Limit Exceeded!
+548
+633
+285
+284
+302
+286
+218
+207
+243
+142
+113
+216
+167
+232
+321
+293
+196
+277
+Step Limit Exceeded!
+401
+303
+375
+289
+240
+463
+210
+178
+162
+165
+218
+212
+430
+Step Limit Exceeded!
+428
+554
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+430
+405
+430
+425
+629
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+375
+456
+357
+247
+199
+212
+266
+275
+152
+319
+299
+305
+420
+671
+Step Limit Exceeded!
+444
+207
+177
+197
+194
+131
+312
+302
+204
+201
+283
+230
+429
+691
+295
+Step Limit Exceeded!
+Step Limit Exceeded!
+429
+717
+Step Limit Exceeded!
+533
+413
+546
+620
+537
+630
+378
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+502
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+785
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+590
+Step Limit Exceeded!
+884
+332
+680
+Step Limit Exceeded!
+966
+841
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+905
+761
+423
+665
+944
+892
+Step Limit Exceeded!
+673
+747
+960
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+831
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+398
+482
+496
+750
+207
+414
+415
+399
+171
+305
+274
+Step Limit Exceeded!
+521
+245
+149
+330
+274
+295
+524
+430
+343
+884
+540
+833
+801
+432
+693
+322
+698
+281
+Step Limit Exceeded!
+548
+853
+671
+796
+Step Limit Exceeded!
+601
+791
+Step Limit Exceeded!
+647
+385
+Step Limit Exceeded!
+679
+121
+299
+716
+472
+Step Limit Exceeded!
+326
+991
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+665
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+975
+Step Limit Exceeded!
+685
+730
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+965
+753
+606
+428
+738
+676
+676
+237
+488
+474
+611
+197
+463
+464
+Step Limit Exceeded!
+380
+172
+Step Limit Exceeded!
+426
+382
+423
+Step Limit Exceeded!
+650
+359
+Step Limit Exceeded!
+266
+609
+Step Limit Exceeded!
+Step Limit Exceeded!
+307
+397
+462
+181
+599
+186
+617
+Step Limit Exceeded!
+417
+679
+Step Limit Exceeded!
+161
+283
+Step Limit Exceeded!
+684
+408
+189
+415
+Step Limit Exceeded!
+904
+283
+Step Limit Exceeded!
+913
+303
+290
+169
+332
+262
+209
+Step Limit Exceeded!
+931
+202
+990
+Step Limit Exceeded!
+594
+743
+999
+949
+558
+603
+449
+302
+Step Limit Exceeded!
+617
+Step Limit Exceeded!
+222
+716
+Step Limit Exceeded!
+Step Limit Exceeded!
+376
+602
+420
+530
+416
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+930
+Step Limit Exceeded!
+Step Limit Exceeded!
+761
+897
+976
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+334
+501
+451
+701
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+440
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+780
+239
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+979
+Step Limit Exceeded!
+Step Limit Exceeded!
+747
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+955
+581
+272
+698
+721
+972
+406
+964
+Step Limit Exceeded!
+123
+489
+388
+118
+286
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+502
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+279
+Step Limit Exceeded!
+561
+934
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+865
+Step Limit Exceeded!
+894
+Step Limit Exceeded!
+Step Limit Exceeded!
+603
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+803
+854
+Step Limit Exceeded!
+848
+926
+970
+631
+Step Limit Exceeded!
+697
+395
+455
+840
+Step Limit Exceeded!
+887
+702
+503
+954
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+856
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+720
+287
+151
+263
+333
+192
+684
+919
+449
+638
+533
+240
+219
+427
+447
+265
+723
+724
+183
+126
+126
+127
+134
+134
+136
+182
+153
+115
+Step Limit Exceeded!
+Step Limit Exceeded!
+856
+508
+554
+180
+305
+344
+879
+895
+873
+377
+513
+516
+530
+204
+142
+146
+159
+167
+158
+237
+231
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+502
+967
+608
+441
+401
+277
+298
+197
+204
+252
+461
+758
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+928
+772
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+715
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+714
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+690
+981
+801
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+486
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-3q38jyzu because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+MountainCar-v0
+310
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+754
+Step Limit Exceeded!
+Step Limit Exceeded!
+282
+440
+420
+709
+400
+510
+392
+Step Limit Exceeded!
+545
+598
+174
+274
+230
+157
+270
+195
+153
+214
+152
+456
+Step Limit Exceeded!
+420
+504
+209
+813
+Step Limit Exceeded!
+126
+366
+440
+145
+987
+165
+524
+473
+983
+527
+152
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+681
+234
+281
+324
+312
+Step Limit Exceeded!
+Step Limit Exceeded!
+669
+165
+338
+693
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+268
+322
+745
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+310
+397
+321
+515
+615
+457
+516
+889
+280
+213
+145
+367
+254
+160
+239
+318
+307
+153
+240
+Step Limit Exceeded!
+Step Limit Exceeded!
+754
+673
+400
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+878
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+712
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+709
+Step Limit Exceeded!
+699
+410
+786
+747
+812
+590
+277
+363
+453
+398
+164
+295
+326
+273
+157
+308
+251
+159
+168
+171
+177
+226
+182
+413
+234
+360
+234
+390
+748
+270
+182
+134
+172
+176
+208
+226
+171
+420
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+710
+962
+382
+443
+291
+293
+247
+249
+249
+470
+246
+216
+157
+159
+163
+162
+235
+159
+157
+158
+152
+169
+254
+282
+195
+144
+292
+268
+163
+152
+290
+331
+154
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+795
+939
+Step Limit Exceeded!
+753
+569
+Step Limit Exceeded!
+623
+488
+415
+Step Limit Exceeded!
+Step Limit Exceeded!
+774
+475
+Step Limit Exceeded!
+416
+293
+286
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+668
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+807
+Step Limit Exceeded!
+Step Limit Exceeded!
+411
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+765
+527
+479
+488
+497
+647
+300
+377
+238
+206
+315
+421
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+905
+791
+910
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+678
+467
+Step Limit Exceeded!
+Step Limit Exceeded!
+832
+163
+206
+344
+Step Limit Exceeded!
+176
+375
+305
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+238
+303
+585
+288
+507
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+262
+772
+362
+318
+323
+446
+396
+203
+370
+418
+141
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-16rs_0cy because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+MountainCar-v0
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+972
+205
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+550
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+826
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+289
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+772
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+993
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+690
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+313
+784
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+776
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+709
+264
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+832
+Step Limit Exceeded!
+Step Limit Exceeded!
+450
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+699
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+864
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+921
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+790
+207
+267
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+961
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+529
+642
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+739
+Step Limit Exceeded!
+889
+708
+506
+886
+849
+Step Limit Exceeded!
+733
+412
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+444
+Step Limit Exceeded!
+355
+460
+547
+Step Limit Exceeded!
+452
+422
+Step Limit Exceeded!
+329
+Step Limit Exceeded!
+484
+426
+598
+418
+471
+529
+682
+623
+Step Limit Exceeded!
+463
+781
+592
+Step Limit Exceeded!
+963
+749
+570
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+852
+Step Limit Exceeded!
+756
+935
+Step Limit Exceeded!
+989
+557
+Step Limit Exceeded!
+Step Limit Exceeded!
+922
+Step Limit Exceeded!
+Step Limit Exceeded!
+621
+Step Limit Exceeded!
+Step Limit Exceeded!
+457
+441
+Step Limit Exceeded!
+935
+440
+338
+551
+Step Limit Exceeded!
+Step Limit Exceeded!
+342
+549
+442
+Step Limit Exceeded!
+781
+334
+506
+444
+Step Limit Exceeded!
+Step Limit Exceeded!
+334
+326
+380
+Step Limit Exceeded!
+900
+317
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+736
+Step Limit Exceeded!
+409
+449
+289
+291
+226
+318
+Step Limit Exceeded!
+Step Limit Exceeded!
+513
+Step Limit Exceeded!
+660
+Step Limit Exceeded!
+Step Limit Exceeded!
+898
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+588
+558
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+499
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+647
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+166
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+696
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+986
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+561
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+839
+Step Limit Exceeded!
+879
+776
+932
+959
+567
+593
+Step Limit Exceeded!
+508
+583
+Step Limit Exceeded!
+973
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Step Limit Exceeded!
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-z7raz1tz because the default path (/home/s/sutton/njqgame/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Program test finished with exit code 0 at: Wed May 12 07:37:21 EDT 2021
+
+scontrol show jobid 5294989
+JobId=5294989 JobName=MountainCarGymNumFeat_DQN_Agent_num
+   UserId=njqgame(3108162) GroupId=sutton(6000291) MCS_label=N/A
+   Priority=564797 Nice=0 Account=def-sutton QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:18:58 TimeLimit=02:59:00 TimeMin=N/A
+   SubmitTime=2021-05-12T07:16:00 EligibleTime=2021-05-12T07:16:00
+   AccrueTime=2021-05-12T07:16:00
+   StartTime=2021-05-12T07:18:23 EndTime=2021-05-12T07:37:21 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-05-12T07:18:23
+   Partition=compute AllocNode:Sid=nia-login06:64562
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia1913
+   BatchHost=nia1913
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,mem=175000M,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/Submit_Jobs.SL
+   WorkDir=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms
+   StdErr=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5294989.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/s/sutton/njqgame/OffpolicyAlgorithms/slurm-5294989.out
+   Power=
+   MailUser=njqgame@scinet.local MailType=NONE
+
+sacct -j 5294989
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+5294989      MountainC+ def-sutton   00:18:58                        00:01.006   01:49:13      0:0 
+5294989.bat+      batch def-sutton   00:18:58   2169440K     62076K  00:01.006  00:01.261      0:0 
+5294989.ext+     extern def-sutton   00:18:58   2600300K    196032K   00:00:00   01:49:12      0:0 
