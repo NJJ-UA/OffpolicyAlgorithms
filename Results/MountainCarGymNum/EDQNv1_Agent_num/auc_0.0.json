@@ -1,0 +1,11 @@
+{
+    "agent": "EDQNv1_Agent_num",
+    "task": "MountainCarGymNumFeat",
+    "environment": "MountainCar-v0",
+    "number_of_runs": 10,
+    "number_of_steps": 100,
+    "sub_sample": 1,
+    "meta_parameters": {
+        "alpha": 0.0078125
+    }
+}

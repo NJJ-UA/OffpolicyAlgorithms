@@ -34,7 +34,7 @@ if DEBUG_MODE:
     EXPS = ['MountainCarGymNum']
     #ALGS = ['SARSA', 'ESARSA', 'ESARSAH']
     #ALGS = ['SARSA', 'ESARSA_VI', 'ESARSAH_VI']
-    ALGS = ['DQN_Agent_num']
+    ALGS = ['DQN_Agent_num', 'EDQN_Agent_num', 'EDQNv1_Agent_num']
     #ALGS = ['Q', 'EQ_VI', 'EQH_VI']
     #ALGS = ['SARSA', 'ESARSA', 'ESARSAH', 'Q', 'EQ', 'EQH']
     #ALGS = ['SARSA',  'ESARSA', 'Q',  'EQ']
